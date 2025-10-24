@@ -140,7 +140,7 @@ for col in json_cols:
 # We can see, however, that the data seems to already be in order: the IDs are always positive if numeric (and seem to be valid ISO codes otherwise) and are never repeated, and there are no null values except for the image paths.
 
 # %% [markdown]
-# After the metadata CSV has been cleaned, we will move on to its credit counterpart.
+# # Credits
 
 # %%
 summary(csvs["credits"])
@@ -183,7 +183,7 @@ for col in json_cols:
 # All of the null data are image paths, so we will leave them as is like their previous counterparts. On the other hand, we see that the IDs, while taking positive values, are repeated, but the primary key seems to be id-credit_id in both cases, and since credit_id has no repeats, the entries can still be uniquely identified.
 
 # %% [markdown]
-# After the credits CSV has been sorted out, the next step is cleaning the keywords one.
+# # Keywords
 
 # %%
 summary(csvs["keywords"])
@@ -214,7 +214,7 @@ summary(pl.DataFrame(list({dumps(item, sort_keys=True): item for item in data}.v
 # The JSON data is already clean. There are no null values and the IDs are unique positive integers.
 
 # %% [markdown]
-# As the whole keywords CSV is therefore clean, we will continue with the ratings dataset.
+# # Ratings
 
 # %%
 summary(csvs["ratings"])
@@ -230,20 +230,23 @@ summary(csvs["ratings"])
 # No changes happened, so this data was already clean. As there are no JSON fields, the analysis of this CSV is done.
 
 # %% [markdown]
-# The last CSV remaining is the links one, so we will take a look at it.
+# # Links
 
 # %%
 summary(csvs["links"])
 
 # %% [markdown]
-# The only problem is the presence of null values, so we will delete those entries.
+# There are some null values, so we will delete those entries. We will also delete repeated TMDB IDs.
 #
 # csvs["links"] = csvs["links"].drop_nulls()
+# csvs["links"] = csvs["links"].unique(subset=["tmdbId"])
+# summary(csvs["links"])
 
 # %% [markdown]
-# Each CSV only contains clean data now, but since credits and links both point to movie IDs, we will delete the entries inside of them that point to non-existent IDs and viceversa.
+# Each CSV contains only clean data now, but since credits and links both point to movie IDs, we will delete the entries inside of them that point to non-existent IDs and viceversa.
 
 # %%
+
 csvs["movies"] = csvs["movies"].join(csvs["credits"].select("id"), on="id", how="semi").join(csvs["links"].select(pl.col("tmdbId").alias("id")), on="id", how="semi")
 csvs["credits"] = csvs["credits"].join(csvs["movies"].select("id"), on="id", how="semi")
 csvs["links"] = csvs["links"].join(csvs["movies"].select(pl.col("id").alias("tmdbId")), on="tmdbId", how="semi")
@@ -253,18 +256,22 @@ for file in ["movies", "credits", "links"]:
     summary(csvs[file])
 
 # %% [markdown]
-# Also, ratings points to the ratings' ID, so we will remove ratings that point to non-existent movies.
+# Also, ratings' ID points to the movieID and keywords' ID points to tmdbID, so we will remove both ratings and keywords which point to non-existent movies.
 
 # %%
-csvs["ratings"] = csvs["ratings"].filter(csvs["ratings"]["movieId"].is_in(csvs["links"]["movieId"]))
+csvs["ratings"] = csvs["ratings"].join(csvs["links"].select("movieId"), on="movieId", how="semi")
+csvs["keywords"] = csvs["keywords"].join(csvs["links"].select(pl.col("tmdbId").alias("id")), on="id", how="semi")
 summary(csvs["ratings"])
+summary(csvs["keywords"])
 
 # %% [markdown]
 # Finally, we will write the datasets to disk in new, clean CSVs
 
 # %%
-from os import mkdir
+from os import makedirs
 
-mkdir(dat / "clean")
+makedirs(dat / "clean", exist_ok=True)
 for file in csvs.keys():
+    print("----- " + file + " -----")
+    summary(csvs[file])
     csvs[file].write_csv(dat / "clean" / (file + ".csv"))
