@@ -6,3 +6,5 @@ venv
 
 # Private data
 .env
+
+__pycache__
