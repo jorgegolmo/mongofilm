@@ -238,9 +238,9 @@ summary(csvs["links"])
 # %% [markdown]
 # There are some null values, so we will delete those entries. We will also delete repeated TMDB IDs.
 #
-# csvs["links"] = csvs["links"].drop_nulls()
-# csvs["links"] = csvs["links"].unique(subset=["tmdbId"])
-# summary(csvs["links"])
+csvs["links"] = csvs["links"].drop_nulls()
+csvs["links"] = csvs["links"].unique(subset=["tmdbId"])
+summary(csvs["links"])
 
 # %% [markdown]
 # Each CSV contains only clean data now, but since credits and links both point to movie IDs, we will delete the entries inside of them that point to non-existent IDs and viceversa.
