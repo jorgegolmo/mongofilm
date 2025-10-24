@@ -263,5 +263,8 @@ summary(csvs["ratings"])
 # Finally, we will write the datasets to disk in new, clean CSVs
 
 # %%
+from os import mkdir
+
+mkdir(dat / "clean")
 for file in csvs.keys():
     csvs[file].write_csv(dat / "clean" / (file + ".csv"))

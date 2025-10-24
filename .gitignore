@@ -1,5 +1,5 @@
-# Stay below LFS cap
-dat/clean
+# CSVs
+dat
 
 # Virtual environment
 venv
