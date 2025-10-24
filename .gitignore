@@ -1,2 +1,8 @@
+# Stay below LFS cap
+dat/clean
+
+# Virtual environment
 venv
+
+# Private data
 .env
