@@ -27,8 +27,8 @@ Roland Emmerich,16,200966999.5,5.75
 Gore Verbinski,10,196784818.0,6.44
 Paul Feig,6,193910844.5,6.27
 Rob Marshall,6,187572667.0,6.23
-Lana Wachowski,7,183987723.0,6.49
 Lilly Wachowski,7,183987723.0,6.49
+Lana Wachowski,7,183987723.0,6.49
 Rob Minkoff,7,182290266.0,6.21
 Chris Weitz,6,182241502.0,6.05
 John Lasseter,10,181629429.5,6.72
@@ -134,7 +134,7 @@ Jean-Jacques Annaud,11,62172050.0,6.7
 P.J. Hogan,6,61726191.0,6.45
 Richard Donner,18,60625490.0,6.47
 Roger Kumble,6,59607585.0,5.3
-Adrian Lyne,8,59443173.5,6.32
+Adrian Lyne,8,59443173.5,6.33
 John Singleton,9,57504069.0,6.52
 Mikael Håfström,7,57479076.0,6.27
 David Ayer,6,56848126.5,6.43
@@ -232,7 +232,7 @@ Paul Michael Glaser,5,21011500.0,5.72
 Kazuya Tsurumaki,5,20000000.0,7.6
 Allen Hughes,7,19701164.0,6.4
 Robert Redford,9,19633027.0,6.6
-Luc Besson,16,19550000.0,6.52
+Luc Besson,16,19550000.0,6.53
 Frank Oz,12,19374220.5,6.42
 Luis Llosa,5,18994653.0,4.96
 Sam Raimi,15,18552460.0,6.47
@@ -244,7 +244,7 @@ Philip Kaufman,10,16533724.5,6.5
 Morten Tyldum,5,15699707.0,7.04
 Nicholas Hytner,6,15301438.5,6.4
 Lasse Hallström,22,15195372.5,6.53
-Sofia Coppola,8,14777554.5,6.23
+Sofia Coppola,8,14777554.5,6.22
 Jim Sheridan,9,14743391.0,6.91
 Jean-Marc Vallée,6,14694240.5,7.13
 Don Bluth,11,14665733.0,6.17
@@ -331,11 +331,11 @@ Joseph Zito,5,4192440.0,5.54
 Nicole Holofcener,5,4186931.0,6.12
 Asif Kapadia,6,4106215.0,6.72
 Richard Marquand,5,4100000.0,6.48
-Mark Rydell,12,3750000.0,6.57
+Mark Rydell,12,3750000.0,6.58
 Michael Moore,10,3713221.0,6.75
 William Friedkin,19,3665069.0,6.18
 Francis Ford Coppola,24,3457240.0,6.48
-Charles Martin Smith,8,3398609.0,6.02
+Charles Martin Smith,8,3398609.0,6.03
 Denis Villeneuve,9,3396726.0,6.96
 Michael Dowse,6,3302291.5,6.48
 Aleksandr Voytinskiy,5,3300000.0,5.34
@@ -394,7 +394,7 @@ A.R. Murugadoss,5,500000.0,6.24
 Pablo Larraín,6,495931.0,6.5
 Michael Lehmann,9,485772.0,5.66
 Dito Montiel,6,485327.5,5.65
-David Mackenzie,8,484320.5,6.52
+David Mackenzie,8,484320.5,6.53
 David Gordon Green,11,414404.0,5.93
 Harold Becker,10,392495.0,5.97
 Richard Eyre,6,388345.5,6.2
@@ -448,1793 +448,1793 @@ Tom Vaughan,5,21.0,5.96
 Jane Campion,8,11.5,6.15
 Prachya Pinkaew,6,7.5,6.08
 Terry Jones,7,1.0,6.54
-Luigi Cozzi,8,0.0,5.1
-Ryan Little,7,0.0,5.19
-Alejandro Jodorowsky,9,0.0,6.81
-Jay Karas,20,0.0,5.71
-Sydney Pollack,21,0.0,6.45
-Isabel Coixet,9,0.0,5.84
-Keith Truesdell,6,0.0,5.83
-Helmut Käutner,5,0.0,6.86
-Emmanuel Mouret,6,0.0,5.72
-Daniel Mann,18,0.0,6.01
-John Sturges,29,0.0,5.88
-Roger Corman,36,0.0,5.11
-Michael Lindsay-Hogg,9,0.0,5.74
-Jean Becker,9,0.0,6.28
-Neill Fearnley,9,0.0,4.93
-Richard Fleischer,35,0.0,5.94
-Val Guest,20,0.0,5.62
-Steven C. Miller,8,0.0,5.08
-Aleksi Mäkelä,12,0.0,6.04
+Allan Dwan,20,0.0,4.6
+Takeshi Kitano,18,0.0,6.86
+Robert Altman,38,0.0,5.72
+Irving Rapper,12,0.0,5.77
+Carl Reiner,14,0.0,6.06
+Ralph Nelson,16,0.0,6.26
+William A. Wellman,43,0.0,5.38
+Derek Yee Tung-Sing,9,0.0,6.86
 William Dieterle,29,0.0,5.2
-Otar Iosseliani,7,0.0,4.84
-Til Schweiger,9,0.0,6.09
-William Castle,28,0.0,4.84
-Peter Collinson,10,0.0,6.56
-Akira Kurosawa,30,0.0,7.28
-Christophe Honoré,8,0.0,5.95
-John Frankenheimer,33,0.0,5.71
-Akiyuki Shinbo,7,0.0,7.79
-Yasuzô Masumura,9,0.0,6.09
-Lewis Milestone,23,0.0,5.36
-David Worth,7,0.0,4.74
-Alfred Hitchcock,53,0.0,6.64
+Boris Sagal,11,0.0,4.04
+F.W. Murnau,10,0.0,7.44
+Athina Rachel Tsangari,5,0.0,4.48
+Michael Radford,9,0.0,6.38
+Makoto Shinkai,9,0.0,6.81
+Spike Lee,36,0.0,6.58
+Kenneth Johnson,10,0.0,5.94
+Dick Lowry,14,0.0,4.91
+Silvio Soldini,5,0.0,6.56
 Mark Griffiths,13,0.0,5.08
-Naomi Kawase,10,0.0,5.86
-Sean McNamara,19,0.0,4.97
+Steven Hilliard Stern,7,0.0,5.17
+Robert Z. Leonard,29,0.0,3.92
+Benoît Jacquot,11,0.0,5.91
+Clyde Bruckman,5,0.0,5.32
+Mervyn LeRoy,38,0.0,5.83
+Nicolas Roeg,15,0.0,6.14
+Richard Franklin,6,0.0,6.08
+Marina Zenovich,5,0.0,6.12
+Jean Renoir,27,0.0,6.41
+Richard Lester,19,0.0,6.11
+Frank Borzage,25,0.0,5.65
+Stephen Gyllenhaal,10,0.0,5.45
 Buster Keaton,36,0.0,6.64
 Edward F. Cline,32,0.0,5.59
-Frank Capra,36,0.0,5.44
-Anatole Litvak,33,0.0,5.42
-Griff Furst,10,0.0,4.13
-John Huston,39,0.0,6.37
-Duwayne Dunham,7,0.0,5.87
-Menahem Golan,7,0.0,5.54
-Boris Sagal,11,0.0,4.04
-Michael Gordon,14,0.0,5.62
-Alain Resnais,23,0.0,6.74
-Roland Joffé,12,0.0,5.85
-Martin Scorsese,41,0.0,7.0
-Michael Keusch,5,0.0,4.54
-Andy Wolk,5,0.0,5.94
-Mani Ratnam,13,0.0,6.64
-Phil Rosen,9,0.0,4.39
-Arthur Lubin,14,0.0,6.09
-Ronald Neame,17,0.0,6.47
-Joshua Safdie,5,0.0,6.7
-Erik Balling,5,0.0,7.18
-Tonino Valerii,7,0.0,6.34
-Olivier Ducastel,5,0.0,5.64
-Jacques Martineau,5,0.0,5.64
-Raoul Walsh,43,0.0,5.87
-Mario Bava,27,0.0,5.83
-Lucio Fulci,31,0.0,5.7
-Giuliano Montaldo,7,0.0,6.51
-Robert Mandel,8,0.0,6.01
-Edward Bernds,15,0.0,4.77
-Robert Wise,37,0.0,6.16
-Liu Chia-Liang,16,0.0,6.43
-Jean-Paul Salomé,5,0.0,5.18
-Im Sang-soo,5,0.0,5.82
-Leo McCarey,19,0.0,5.48
-Giuliano Carnimeo,14,0.0,4.53
-Benny Chan,13,0.0,6.32
-Phil Karlson,22,0.0,5.92
-Ernie Barbarash,12,0.0,5.2
-Costa-Gavras,16,0.0,6.56
-Richard Thorpe,42,0.0,5.36
-Alfred L. Werker,7,0.0,5.73
-Scott Hicks,10,0.0,5.67
-John Ford,68,0.0,6.38
-Julio Médem,9,0.0,6.29
-Emmanuelle Bercot,6,0.0,6.33
-Charles Barton,10,0.0,5.57
-Christian I. Nyby II,17,0.0,4.44
-Claude Zidi,14,0.0,6.11
-Zak Knutson,6,0.0,5.77
-Joey Figueroa,5,0.0,5.38
-Aki Kaurismäki,24,0.0,6.37
-Fatih Akin,11,0.0,6.63
-Peter Greenaway,18,0.0,6.97
-Tony Gatlif,11,0.0,6.24
-Jan Troell,13,0.0,6.12
-Stijn Coninx,6,0.0,6.23
-Béla Tarr,12,0.0,6.87
-Šarūnas Bartas,8,0.0,6.36
-Aisling Walsh,5,0.0,6.22
-Christoffer Boe,6,0.0,6.07
-Małgorzata Szumowska,5,0.0,5.5
-Henry Hathaway,43,0.0,5.61
-Nico Mastorakis,5,0.0,4.22
-Jacques Rivette,19,0.0,7.32
-Lauri Törhönen,5,0.0,5.62
-Henry Levin,20,0.0,4.86
-Spike Lee,36,0.0,6.58
-Stanley Kramer,13,0.0,6.69
-Vic Sarin,8,0.0,4.74
-Sam Pillsbury,8,0.0,5.16
-Philippe Mora,12,0.0,4.71
-Ben Sharpsteen,7,0.0,6.81
-Tsui Hark,22,0.0,6.16
-Olivier Assayas,14,0.0,6.4
-Norman Taurog,35,0.0,5.7
-Steve Oedekerk,5,0.0,6.1
-George Seaton,11,0.0,6.29
-Ben Sombogaart,5,0.0,7.12
-Ken Annakin,22,0.0,6.42
-Marcel Pagnol,9,0.0,6.71
-John D. Hancock,6,0.0,4.63
-John Sayles,17,0.0,6.2
-S. Sylvan Simon,12,0.0,4.5
-Lars von Trier,21,0.0,6.84
-Steve Miner,14,0.0,5.58
-Jean-Luc Godard,50,0.0,6.75
-Claude Chabrol,37,0.0,6.01
-Édouard Molinaro,7,0.0,6.43
-Jacques Demy,12,0.0,6.69
-Philippe de Broca,11,0.0,6.32
-Roger Vadim,12,0.0,5.77
-René Laloux,8,0.0,7.7
-Kenji Misumi,15,0.0,6.15
-James Merendino,5,0.0,5.26
-Uli Edel,14,0.0,5.9
-Julien Duvivier,30,0.0,4.68
-Michael Winner,14,0.0,6.09
-Steven R. Monroe,14,0.0,4.75
-Anthony DiBlasi,6,0.0,5.08
-Roy Del Ruth,33,0.0,4.92
-D.W. Griffith,29,0.0,5.61
-Peter Medak,12,0.0,5.24
-William Girdler,8,0.0,3.89
-J. Lee Thompson,35,0.0,5.96
-Chuck Jones,27,0.0,6.7
-Carlo Mazzacurati,5,0.0,6.68
-Jean-Pierre Dardenne,8,0.0,6.81
-Luc Dardenne,8,0.0,6.81
-Nikita Mikhalkov,11,0.0,5.61
-Robert Siodmak,16,0.0,6.39
-Burt Kennedy,15,0.0,5.47
-Yuen Woo-ping,11,0.0,6.75
-Gabriele Salvatores,12,0.0,6.74
-Michael Winterbottom,25,0.0,5.97
-Steve Rash,14,0.0,5.69
-Sidney J. Furie,24,0.0,4.96
-Richard Rush,7,0.0,5.94
-Pupi Avati,11,0.0,5.36
-Joseph H. Lewis,14,0.0,5.74
-Yoshihiro Nakamura,6,0.0,6.72
-Nagisa Ōshima,16,0.0,6.21
-Harry Lachman,9,0.0,6.07
-Mervyn LeRoy,38,0.0,5.83
-Claude Lelouch,19,0.0,6.18
-Alan Crosland,6,0.0,4.2
-Tom Hooper,9,0.0,6.87
-Savage Steve Holland,12,0.0,4.86
-Aleksandr Petrov,6,0.0,6.12
-Jerzy Kawalerowicz,5,0.0,6.2
-André Téchiné,19,0.0,6.14
-Takashi Miike,37,0.0,6.52
-Lew Landers,9,0.0,1.53
-George Marshall,30,0.0,5.32
-Luciano Salce,12,0.0,5.04
-Robert M. Young,9,0.0,6.34
-Giorgio Ferroni,8,0.0,5.67
-Robert Aldrich,29,0.0,6.29
-Arthur Penn,15,0.0,6.09
-Paolo Taviani,11,0.0,6.31
-Vittorio Taviani,11,0.0,6.31
-Leonid Kvinikhidze,5,0.0,5.1
-John Stockwell,13,0.0,5.51
-Stephen Gyllenhaal,10,0.0,5.45
-William Lau,13,0.0,6.52
-Frank Pierson,7,0.0,5.76
-Wim Wenders,32,0.0,6.4
-Albert Pyun,32,0.0,4.24
-Sam Wood,24,0.0,5.05
-Togan Gökbakar,5,0.0,5.66
-Eliseo Subiela,6,0.0,6.33
-H. C. Potter,9,0.0,6.44
-James Benning,11,0.0,6.58
-Peter Glenville,5,0.0,6.58
-Lewis Seiler,14,0.0,4.71
-Frank Borzage,25,0.0,5.65
-Rex Ingram,5,0.0,6.38
-Bruno Mattei,14,0.0,3.76
-Zalman King,5,0.0,4.48
-Michael Curtiz,65,0.0,5.26
-Jaume Balagueró,7,0.0,6.04
-Richard Gabai,10,0.0,5.04
-Federico Fellini,23,0.0,6.9
-Paul Weiland,6,0.0,5.57
-Jan Kounen,5,0.0,5.96
-Edward Dmytryk,31,0.0,5.66
-Zoltan Korda,10,0.0,6.67
-Eric Till,11,0.0,5.3
-Chantal Akerman,11,0.0,6.11
-Phil Joanou,10,0.0,6.05
-Yoshiaki Kawajiri,9,0.0,6.8
-Harald Reinl,6,0.0,7.18
-Radley Metzger,6,0.0,4.4
-Carlos Saura,21,0.0,5.88
-Michael Apted,35,0.0,6.39
-Wilfred Jackson,15,0.0,6.89
-Malcolm St. Clair,7,0.0,5.59
-Catherine Cyran,6,0.0,5.55
-István Szabó,8,0.0,6.1
-Shinji Higuchi,6,0.0,5.3
-Stephen Frears,28,0.0,6.16
-Douglas Jackson,5,0.0,3.22
-William Wyler,29,0.0,6.26
-John Woo,24,0.0,6.45
-Jon Jones,5,0.0,5.92
-William Asher,9,0.0,6.61
-Abdellatif Kechiche,5,0.0,7.12
-Agnieszka Holland,14,0.0,6.72
-Robert Young,5,0.0,5.96
-Robert Parrish,13,0.0,6.21
-Hirokazu Koreeda,12,0.0,7.12
-Claire Denis,11,0.0,6.5
-Steno,13,0.0,6.58
-Tay Garnett,19,0.0,5.82
-Ishirô Honda,23,0.0,5.87
-Zhang Yimou,20,0.0,6.93
-Mick Jackson,13,0.0,6.24
-Arthur Dreifuss,6,0.0,4.47
-Mathieu Kassovitz,7,0.0,6.47
-Billy Corben,7,0.0,5.84
-Madhur Bhandarkar,5,0.0,5.86
-Marcelo Piñeyro,7,0.0,6.16
-Al Adamson,10,0.0,2.74
-Robert Rossen,8,0.0,6.26
-Douglas McGrath,7,0.0,6.13
-Sidney Lumet,46,0.0,6.15
-Neri Parenti,13,0.0,5.82
-Lo Wei,9,0.0,6.43
-Michael Hoffman,12,0.0,5.98
-Enzo G. Castellari,23,0.0,5.09
-Brian Trenchard-Smith,17,0.0,4.86
-Clarence Brown,33,0.0,4.93
-Christy Cabanne,6,0.0,4.05
-Roberto Benigni,6,0.0,6.93
-Steven Cantor,5,0.0,5.82
-Tim Fywell,9,0.0,6.2
-William Beaudine,32,0.0,4.52
-Franco Zeffirelli,11,0.0,6.46
-Reginald Le Borg,13,0.0,4.67
-Mamoru Oshii,12,0.0,6.31
-Manoel de Oliveira,15,0.0,6.53
-Melville Shavelson,9,0.0,6.47
-John Moffitt,9,0.0,6.82
-Simon Wincer,17,0.0,5.57
-Jack Conway,23,0.0,5.6
-Rajkumar Santoshi,10,0.0,6.4
-Josef von Sternberg,19,0.0,6.39
-John Eyres,5,0.0,3.68
-Doris Dörrie,9,0.0,5.72
-François Truffaut,24,0.0,7.12
-Michael Anderson,21,0.0,5.88
-Robert Z. Leonard,29,0.0,3.92
-Bill L. Norton,6,0.0,5.08
-Timothy Woodward Jr.,6,0.0,4.38
-Nathan H. Juran,15,0.0,5.37
-Jules Dassin,16,0.0,6.07
-Bud Yorkin,7,0.0,5.54
-Kim Ki-duk,21,0.0,6.48
-Joseph Losey,27,0.0,5.7
-Matthew Barney,5,0.0,5.92
-Anthony Page,5,0.0,6.4
-Alberto De Martino,14,0.0,2.76
-Frederick Wiseman,23,0.0,5.86
-Jacques Tourneur,21,0.0,5.67
-Douglas Barr,5,0.0,5.12
-Joseph McGrath,5,0.0,5.88
-Robert N. Bradbury,13,0.0,4.43
 Mikko Niskanen,6,0.0,5.18
-Norman Jewison,24,0.0,6.13
-Arthur Allan Seidelman,7,0.0,4.87
-Georges Méliès,49,0.0,5.93
-Subhash Ghai,7,0.0,6.49
-Terence Fisher,26,0.0,6.1
-Mitchell Leisen,18,0.0,6.16
-Werner Herzog,55,0.0,6.81
-Mia Hansen-Løve,5,0.0,6.34
-G.W. Pabst,11,0.0,5.85
-Miklós Jancsó,14,0.0,6.38
-Peter Hewitt,12,0.0,5.53
-Arthur Hiller,27,0.0,6.0
-Sergey Loznitsa,12,0.0,5.38
-Aleksandr Rou,6,0.0,6.12
-Howard Zieff,9,0.0,5.73
-Jerzy Hoffman,5,0.0,6.18
-Mohsen Makhmalbaf,8,0.0,6.56
-Albert Brooks,7,0.0,6.33
-Marco Tullio Giordana,5,0.0,7.5
-James Kent,5,0.0,5.48
-Leni Riefenstahl,6,0.0,6.43
-Jacques Tati,6,0.0,7.17
-Aku Louhimies,7,0.0,6.11
-Richard Wallace,11,0.0,4.55
-David Greene,11,0.0,5.72
-Robert Ellis Miller,7,0.0,6.4
-Pere Portabella,5,0.0,5.76
-Rowland V. Lee,8,0.0,4.19
-Vince Marcello,5,0.0,6.22
-Stanley Donen,22,0.0,6.04
-Maximilian Schell,5,0.0,6.54
-Lamberto Bava,10,0.0,5.14
-Nikos Nikolaidis,8,0.0,7.38
-Stephen Roberts,5,0.0,3.8
-João Pedro Rodrigues,5,0.0,6.28
-Éric Rohmer,28,0.0,6.51
-Jean Rouch,5,0.0,6.66
-Kinji Fukasaku,16,0.0,6.42
-Frank R. Strayer,7,0.0,6.46
-Bobcat Goldthwait,11,0.0,6.79
-John Irvin,21,0.0,5.38
-Rainer Werner Fassbinder,35,0.0,6.94
-Kenneth Johnson,10,0.0,5.94
-Bong Joon-ho,7,0.0,7.1
-Busby Berkeley,18,0.0,5.22
-William A. Seiter,23,0.0,5.46
-Martin Donovan,6,0.0,3.65
-Andy Sidaris,7,0.0,4.87
-George Sluizer,5,0.0,5.94
-Vishal Bhardwaj,8,0.0,6.62
-Richard Lester,19,0.0,6.11
-Osamu Dezaki,6,0.0,4.77
-Ken Russell,19,0.0,5.99
-François Ozon,19,0.0,6.48
-Rocco Urbisci,9,0.0,7.82
-Johannes Roberts,5,0.0,4.5
-Don Siegel,27,0.0,5.96
-Vincente Minnelli,33,0.0,5.97
-Mark Sandrich,11,0.0,6.43
-Ted Post,10,0.0,6.32
-Irwin Winkler,7,0.0,5.94
-Armand Mastroianni,9,0.0,3.79
-Satyajit Ray,24,0.0,7.32
-Gary Yates,6,0.0,5.47
-Don McBrearty,6,0.0,6.05
-John Guillermin,19,0.0,6.35
-Tonino Ricci,5,0.0,1.6
-Nicholas Ray,23,0.0,6.38
-Stuart Rosenberg,13,0.0,6.32
-Alan Smithee,7,0.0,4.09
-Vidhu Vinod Chopra,5,0.0,5.94
-Philip Leacock,7,0.0,5.71
-Brillante Mendoza,6,0.0,6.15
-Wilson Yip,11,0.0,6.25
-Dan Ireland,6,0.0,5.55
-Robert Harmon,16,0.0,6.1
-Sergio Grieco,10,0.0,1.84
-Sukumar,5,0.0,6.26
-Jonathan Demme,27,0.0,6.5
-Cecil B. DeMille,29,0.0,5.8
-Shari Springer Berman,9,0.0,5.53
-Robert Pulcini,9,0.0,5.53
-Shôhei Imamura,16,0.0,6.79
-Alberto Lattuada,14,0.0,5.52
-Umberto Lenzi,32,0.0,5.17
-Lasse Åberg,6,0.0,5.0
-Alvin Rakoff,6,0.0,5.8
-William A. Levey,8,0.0,2.49
-Rakesh Roshan,7,0.0,6.34
-Charlie Chaplin,44,0.0,6.54
-Delmer Daves,20,0.0,6.0
-Richard A. Colla,6,0.0,5.1
-Christopher Cain,11,0.0,5.06
-Mihalis Kakogiannis,8,0.0,5.12
-Peter Masterson,6,0.0,4.62
-Andrei Konchalovsky,19,0.0,5.82
-Henry King,30,0.0,5.4
-Mikio Naruse,17,0.0,5.81
-Ole Bornedal,8,0.0,6.14
-Douglas Hickox,9,0.0,5.93
-Harvey Frost,7,0.0,4.66
-Jon Amiel,9,0.0,6.03
-Michel Poulette,5,0.0,5.3
-Stephen Kijak,5,0.0,6.68
-František Vláčil,9,0.0,5.98
-Robert Day,12,0.0,5.41
-Zdravko Šotra,5,0.0,4.84
-Richard Schenkman,5,0.0,5.28
-Daniel Myrick,5,0.0,5.7
-Eduardo Sánchez,7,0.0,5.37
-Fred F. Sears,14,0.0,3.84
-Kevin Brownlow,7,0.0,4.86
-Steve Barron,11,0.0,5.99
-Nobuyoshi Habara,6,0.0,6.03
-Byron Haskin,13,0.0,5.81
-Edmund Goulding,17,0.0,6.2
-Derek Yee Tung-Sing,9,0.0,6.86
-Roscoe 'Fatty' Arbuckle,9,0.0,5.44
-Leon Ichaso,6,0.0,6.15
-Victor Sjöström,13,0.0,5.62
-D.A. Pennebaker,16,0.0,6.38
-Ryan Polito,21,0.0,4.91
-Katsuhiro Ōtomo,6,0.0,6.83
-Percy Adlon,6,0.0,6.32
-Harold S. Bucquet,14,0.0,4.64
-Miguel M. Delgado,14,0.0,5.92
-Jack Arnold,14,0.0,6.22
-Miguel Arteta,7,0.0,5.9
-Joel Gallen,18,0.0,6.63
-Gary Sherman,6,0.0,5.57
-Tommy O'Haver,5,0.0,6.02
-Gérard Oury,10,0.0,6.71
-John Mackenzie,7,0.0,5.33
-Fritz Lang,38,0.0,6.62
-Harold Young,5,0.0,6.96
-Nanni Moretti,10,0.0,6.69
-James Ivory,26,0.0,5.58
-Roel Reiné,15,0.0,4.93
-Adrian Shergold,5,0.0,6.54
-Ben Verbong,5,0.0,5.56
-David Lowell Rich,8,0.0,4.44
-Gabriele Muccino,8,0.0,6.36
-Jon Cassar,5,0.0,5.92
-Yves Boisset,6,0.0,5.38
-Jacob Gentry,5,0.0,5.88
-Roy Andersson,9,0.0,6.54
-Ryûhei Kitamura,10,0.0,6.24
-Tran Anh Hung,5,0.0,6.58
-David Hand,15,0.0,6.53
-Jacques Becker,8,0.0,6.65
-Errol Morris,11,0.0,7.03
-Ann Hui,5,0.0,6.42
-Mike Nawrocki,7,0.0,4.81
-Charles Sturridge,8,0.0,6.48
-John Farrow,20,0.0,4.77
-Jay Oliva,12,0.0,6.87
-Tom Clegg,16,0.0,6.44
-Rodney Gibbons,8,0.0,4.1
-Daisuke Nishio,7,0.0,6.36
-Robert Butler,9,0.0,4.12
-Roger Spottiswoode,19,0.0,6.04
-Carol Reed,17,0.0,6.35
-Dave Fleischer,10,0.0,6.61
-Jack Smight,11,0.0,5.56
-Jean-François Richet,6,0.0,6.4
-William A. Wellman,43,0.0,5.38
-Wong Jing,17,0.0,6.18
-Otto Preminger,30,0.0,6.37
-Andy Warhol,9,0.0,6.09
-Paul Morrissey,12,0.0,5.82
-Budd Boetticher,19,0.0,5.82
-Neal Israel,7,0.0,3.86
-Jean-Pierre Melville,12,0.0,7.29
-Frank Tashlin,17,0.0,5.51
-Jean Delannoy,5,0.0,6.12
-Philippe de Chauveron,5,0.0,6.06
-Andrew L. Stone,13,0.0,5.25
-Danny Lerner,7,0.0,3.49
-John Llewellyn Moxey,7,0.0,5.63
-Allan Dwan,20,0.0,4.6
-Isaac Florentine,9,0.0,5.49
-John Badham,19,0.0,5.99
-Norman Z. McLeod,21,0.0,5.85
-Jason Bourque,6,0.0,4.2
-Laurent Cantet,7,0.0,5.83
-João César Monteiro,14,0.0,5.83
-Cirio H. Santiago,14,0.0,4.1
-Miloš Forman,13,0.0,6.93
-Allan A. Goldstein,5,0.0,4.2
-Clive Donner,10,0.0,5.36
-Terry Zwigoff,5,0.0,7.24
-Guillaume Canet,5,0.0,6.38
-Joris Ivens,6,0.0,6.92
-Gerald Thomas,25,0.0,6.17
-Doug Pray,5,0.0,7.46
-Atom Egoyan,16,0.0,6.19
-Sergio Martino,23,0.0,4.69
-Irvin Kershner,12,0.0,6.05
-Georges Lautner,10,0.0,6.69
-Fred Olen Ray,18,0.0,3.92
-Anthony Asquith,15,0.0,6.21
-Norman Tokar,12,0.0,6.28
-Robert Altman,38,0.0,5.72
-Bill Bennett,5,0.0,4.72
-Larry Peerce,12,0.0,5.09
-Walerian Borowczyk,7,0.0,6.21
-Nick Willing,8,0.0,5.74
-Terence Davies,8,0.0,6.85
-George T. Miller,11,0.0,4.66
-Ingmar Bergman,39,0.0,7.12
-Leos Carax,7,0.0,7.0
-Andrew Marton,7,0.0,5.27
-Richard Pearce,7,0.0,5.87
-John Berry,6,0.0,5.93
-Elliott Nugent,13,0.0,4.02
-Robert Stevenson,29,0.0,6.1
-Paul Bartel,5,0.0,5.84
-Bille Woodruff,9,0.0,5.63
-Bob Rafelson,11,0.0,6.04
-Marek Koterski,5,0.0,5.14
-Pier Paolo Pasolini,19,0.0,6.09
-George Cukor,39,0.0,5.98
-Robert Lieberman,12,0.0,5.96
-Luigi Zampa,7,0.0,3.8
-Charles Vidor,15,0.0,6.43
-David Lean,16,0.0,6.96
-Tim Blake Nelson,5,0.0,6.0
-Emilio Martínez Lázaro,5,0.0,5.98
-Marco Ferreri,21,0.0,6.33
-Stephan Elliott,6,0.0,5.83
-Oz Scott,5,0.0,5.18
-Christopher Menaul,9,0.0,4.38
-John G. Blystone,5,0.0,5.52
-Mark Atkins,13,0.0,3.02
-George Sidney,22,0.0,5.82
-Claude Sautet,7,0.0,6.83
-Joseph Pevney,13,0.0,5.82
-Fruit Chan,6,0.0,6.0
-Henri Verneuil,14,0.0,6.61
-Liv Ullmann,5,0.0,6.12
-Johnnie To,30,0.0,6.23
-Wai Ka-Fai,9,0.0,6.27
-Piers Haggard,6,0.0,5.68
-Youssef Chahine,10,0.0,6.47
-Richard Franklin,6,0.0,6.08
-Sarik Andreasyan,10,0.0,4.33
-Bill Corcoran,9,0.0,4.42
-Vincent Sherman,16,0.0,6.2
-Joseph Sargent,35,0.0,4.57
-Teruo Ishii,6,0.0,4.97
-Jun Fukuda,6,0.0,5.9
-Harmony Korine,10,0.0,6.03
-Howard Hawks,36,0.0,5.94
-Edwin L. Marin,17,0.0,4.2
-Gene Kelly,11,0.0,6.41
-Dome Karukoski,7,0.0,6.79
-Koreyoshi Kurahara,7,0.0,6.67
-Abbas Kiarostami,26,0.0,6.35
-Hans Petter Moland,7,0.0,6.47
-Timo Tjahjanto,5,0.0,6.06
-Aleksey Balabanov,11,0.0,6.37
-Alex Gibney,20,0.0,6.92
-Chor Yuen,6,0.0,5.67
-Marina Zenovich,5,0.0,6.12
-Mike Figgis,14,0.0,5.96
-Paolo Virzì,7,0.0,6.96
-Thom Fitzgerald,6,0.0,4.65
-A. Edward Sutherland,7,0.0,5.24
-Segundo de Chomón,8,0.0,5.75
-Declan O'Brien,6,0.0,4.22
-Kristoffer Tabori,10,0.0,6.28
-Banjong Pisanthanakun,6,0.0,6.35
-John Schlesinger,20,0.0,5.97
-Samuel Fuller,21,0.0,5.9
-Veit Harlan,6,0.0,5.88
-Hou Hsiao-hsien,21,0.0,6.89
-Tom McLoughlin,13,0.0,5.09
-Krzysztof Zanussi,10,0.0,4.56
-Edward Sedgwick,16,0.0,3.57
-John Milius,9,0.0,5.43
-Juan Antonio Bardem,5,0.0,6.42
-Victor Fleming,15,0.0,5.87
-Susan Seidelman,9,0.0,4.27
-Marguerite Duras,5,0.0,5.9
-Richard Holm,6,0.0,6.17
-Victor Saville,11,0.0,6.14
-Jean-Claude Brisseau,5,0.0,5.78
-Amy Berg,6,0.0,7.1
-Joel Soisson,5,0.0,4.26
-William Lustig,7,0.0,5.76
-Nancy Savoca,6,0.0,4.9
-David Dhawan,11,0.0,4.75
-Ted V. Mikels,6,0.0,3.33
-Richard Laxton,5,0.0,6.64
-Christian-Jaque,5,0.0,6.44
-Ate de Jong,5,0.0,5.3
-Norman Foster,16,0.0,5.64
-Mario Monicelli,28,0.0,5.83
-Jack Kinney,14,0.0,6.24
-Hiroshi Teshigahara,7,0.0,7.19
-Ralph Nelson,16,0.0,6.26
-Richard Loncraine,13,0.0,5.25
-Alexander Mackendrick,7,0.0,6.73
-Anurag Kashyap,11,0.0,6.59
-Irving Cummings,13,0.0,5.0
-Lesley Selander,10,0.0,2.92
-Sammo Hung,18,0.0,6.44
-Beeban Kidron,5,0.0,6.1
-John M. Stahl,6,0.0,6.87
-Jack Gold,13,0.0,5.28
-William Fruet,6,0.0,5.57
-Richard Shepard,7,0.0,6.27
-Mary Lambert,10,0.0,3.86
-David Lynch,29,0.0,7.13
-Norman Cohen,5,0.0,5.88
-Damiano Damiani,16,0.0,4.91
-Masaki Kobayashi,18,0.0,5.89
-Rob Williams,7,0.0,4.73
-Julian Jarrold,9,0.0,5.88
-Claude Miller,11,0.0,6.35
-Richard Wilson,5,0.0,6.46
-Spike Brandt,9,0.0,6.24
-Tony Cervone,7,0.0,6.06
-Allison Anders,9,0.0,5.74
-Steve Carver,9,0.0,5.34
-Gordon Douglas,34,0.0,5.16
-Kurt Neumann,10,0.0,4.88
-Erik Van Looy,6,0.0,6.3
-Walter Lang,24,0.0,5.31
-Leigh Scott,6,0.0,3.22
-Yasujirō Ozu,31,0.0,6.45
-Bryan Forbes,10,0.0,6.41
-Pedro Costa,6,0.0,6.73
-Wojciech Has,5,0.0,7.16
-Glenn A. Jordan,10,0.0,6.19
-Ram Gopal Varma,17,0.0,5.18
-Doug Campbell,9,0.0,5.02
-Raymond De Felitta,5,0.0,6.1
-John Brahm,12,0.0,4.31
-Alexander Korda,10,0.0,6.06
-Terry Hughes,5,0.0,4.98
-Gregory Nava,5,0.0,6.66
-Peter Yates,20,0.0,6.35
-Lukas Moodysson,7,0.0,6.46
-John Flynn,11,0.0,5.96
-Chang Cheh,24,0.0,6.23
-Oliver Parker,10,0.0,5.64
-Chuck Vincent,7,0.0,2.89
-George Gallo,8,0.0,6.04
-Curtis Crawford,6,0.0,4.8
-George Schaefer,6,0.0,2.48
 Dorothy Arzner,10,0.0,4.17
-Archie Mayo,18,0.0,4.76
-Rolfe Kanefsky,6,0.0,4.47
-Penelope Spheeris,18,0.0,4.92
-Daniel Burman,5,0.0,6.1
-Hong Sang-soo,16,0.0,7.21
-Lina Wertmüller,10,0.0,4.89
-Philippe Garrel,12,0.0,6.04
-Elia Kazan,19,0.0,6.72
-Jean Yarbrough,14,0.0,5.08
-Robert Hartford-Davis,5,0.0,4.86
-Jon Avnet,7,0.0,6.23
-Dinos Dimopoulos,5,0.0,6.62
-Ray Enright,19,0.0,4.31
-Bart Freundlich,6,0.0,5.07
-Maurizio Lucidi,5,0.0,4.96
-Jörn Donner,9,0.0,3.29
-Matti Kassila,9,0.0,5.22
-Eugene Jarecki,6,0.0,6.45
-Lloyd Bacon,31,0.0,5.65
-J.S. Cardone,8,0.0,5.21
-Kevin Connor,18,0.0,5.13
-Francis Veber,12,0.0,6.4
-Dominique Deruddere,5,0.0,6.14
-Çağan Irmak,6,0.0,7.43
-Christian Duguay,15,0.0,5.89
-Don Taylor,9,0.0,5.81
-Luis Buñuel,26,0.0,7.12
-Dan Curtis,11,0.0,5.64
-Antonio Margheriti,24,0.0,4.46
-Robert Townsend,9,0.0,5.79
-Carl Reiner,14,0.0,6.06
-Franco Castellano,11,0.0,5.58
-Giuseppe Moccia,11,0.0,5.58
-Jan Švankmajer,13,0.0,7.09
-John Bradshaw,9,0.0,5.79
-Frank McDonald,5,0.0,2.56
-Felix Chong,5,0.0,6.18
-Alan Mak,9,0.0,6.89
-Dick Maas,11,0.0,5.6
-Rafal Zielinski,8,0.0,4.28
-Michael Landon Jr.,9,0.0,6.34
-Don Chaffey,10,0.0,4.43
-Mohit Suri,7,0.0,5.93
-William A. Graham,17,0.0,4.79
-Ken Loach,27,0.0,6.54
-Jim Wynorski,24,0.0,4.27
-Feng Xiaogang,9,0.0,6.54
-Ulrich Seidl,10,0.0,6.6
-Avi Nesher,9,0.0,5.73
-Michael Ritchie,21,0.0,6.11
-Eldar Ryazanov,17,0.0,5.81
-Anders Nilsson,9,0.0,6.67
-Ferzan Ozpetek,10,0.0,6.8
-Derek Jarman,10,0.0,6.76
-Phil Roman,8,0.0,6.16
-Bill Melendez,8,0.0,6.59
-Charles Walters,20,0.0,5.72
-Ettore Scola,19,0.0,6.94
-Ken Burns,12,0.0,5.82
-Tommy Chong,5,0.0,5.72
-Shannon Hartman,14,0.0,6.73
-Marty Callner,15,0.0,6.89
-Ho Meng-Hua,7,0.0,5.99
-Kenneth Anger,10,0.0,6.9
-Kim Longinotto,7,0.0,6.34
-Valentin Vaala,5,0.0,1.6
-Lewis Teague,12,0.0,4.79
-Bob Balaban,5,0.0,5.28
-José Ferrer,5,0.0,5.68
-Roger Young,10,0.0,5.39
-Christopher Smith,8,0.0,6.21
-Bill Plympton,9,0.0,6.7
-Mario Van Peebles,11,0.0,5.71
-Russ Meyer,15,0.0,6.21
-David Schmoeller,5,0.0,5.52
-Michele Lupo,15,0.0,4.67
-Maurice Pialat,9,0.0,5.74
-Don Hertzfeldt,6,0.0,8.07
-Richard Stanley,7,0.0,4.99
-Benedek Fliegauf,5,0.0,4.04
-Marc Evans,6,0.0,5.95
-Frank Launder,7,0.0,6.21
-Dennis Hopper,7,0.0,6.21
-Ken Wiederhorn,5,0.0,5.42
-Albert Dupontel,5,0.0,6.26
-Edward D. Wood Jr.,6,0.0,3.98
-Michael Polish,10,0.0,5.65
-Louis Morneau,6,0.0,4.95
-Tim Whelan,10,0.0,5.33
-Daniel Lind Lagerlöf,7,0.0,4.43
-Rouben Mamoulian,14,0.0,5.09
-Mike Nichols,21,0.0,6.3
-Fernando León de Aranoa,5,0.0,6.82
-Russell Mulcahy,19,0.0,5.35
-Patrice Leconte,19,0.0,6.32
-Tony Richardson,16,0.0,6.19
-Carlo Lizzani,13,0.0,5.32
-Friz Freleng,6,0.0,6.67
-Andrew Lau,12,0.0,6.01
-Sergio Garrone,9,0.0,2.01
-Robert Vince,15,0.0,5.06
-Anthony Mann,35,0.0,6.18
-Chu Yen-ping,6,0.0,4.23
-Zeki Demirkubuz,6,0.0,7.45
-Ian Barry,5,0.0,4.48
-Mahesh Manjrekar,8,0.0,7.13
-Ringo Lam,7,0.0,5.83
-Sergey Bondarchuk,11,0.0,5.94
-Darrell James Roodt,7,0.0,5.76
-H. Bruce Humberstone,17,0.0,4.39
-Jerry Jameson,11,0.0,3.35
-Vincent McEveety,14,0.0,5.71
-Alan Clarke,8,0.0,3.3
-Andrew V. McLaglen,21,0.0,5.89
-Mat Whitecross,6,0.0,7.03
-Mikhail Romm,5,0.0,6.82
-Claude Autant-Lara,9,0.0,5.81
-Krzysztof Kieślowski,13,0.0,7.32
-William Keighley,24,0.0,5.66
-K. S. Ravikumar,5,0.0,6.16
-Gisaburō Sugii,5,0.0,6.36
-Simon Fellows,5,0.0,5.06
+Amando de Ossorio,8,0.0,2.94
+Edwin L. Marin,17,0.0,4.2
+Phil Karlson,22,0.0,5.92
+Franco Zeffirelli,11,0.0,6.46
+Miguel Arteta,7,0.0,5.9
+Clarence Brown,33,0.0,4.93
+Greg Beeman,9,0.0,5.13
+Rainer Werner Fassbinder,35,0.0,6.94
+Ram Gopal Varma,17,0.0,5.18
+Luc Dardenne,8,0.0,6.81
+Jean-Pierre Dardenne,8,0.0,6.81
+Alexander Hall,13,0.0,5.86
+Bob Rafelson,11,0.0,6.04
+Richard Brooks,21,0.0,6.46
+Jon Amiel,9,0.0,6.03
+Ryan Little,7,0.0,5.19
+Howard Zieff,9,0.0,5.73
+Kazuo Mori,7,0.0,5.61
+Mark Rosman,8,0.0,5.54
+Raúl Ruiz,17,0.0,6.09
+Jeff Bleckner,10,0.0,5.57
+King Vidor,31,0.0,5.42
+Peter Greenaway,18,0.0,6.97
+John D. Hancock,6,0.0,4.63
+Arthur Hiller,27,0.0,6.0
+David Lean,16,0.0,6.96
+George Cukor,39,0.0,5.98
+Ben Stassen,9,0.0,5.91
+Bruno Mattei,14,0.0,3.76
+Vikram Bhatt,8,0.0,5.09
+Nuri Bilge Ceylan,7,0.0,6.86
+Ronald Neame,17,0.0,6.47
+Bert I. Gordon,17,0.0,4.2
+Lawrence Kasdan,11,0.0,6.31
+Bertrand Tavernier,16,0.0,6.31
+Tobe Hooper,18,0.0,5.76
+Fernando Di Leo,13,0.0,5.9
+Lars von Trier,21,0.0,6.84
+Jason Bourque,6,0.0,4.2
 Jules Bass,20,0.0,6.16
 "Arthur Rankin, Jr.",18,0.0,6.51
-Roy Rowland,16,0.0,4.31
-Francesco Rosi,14,0.0,5.96
-Carroll Ballard,6,0.0,6.6
-Jessica Yu,6,0.0,5.82
-Paul Lynch,5,0.0,4.34
-Sheldon Wilson,8,0.0,4.31
-Andrzej Wajda,19,0.0,6.74
-S.S. Rajamouli,7,0.0,6.4
-Eric Rochant,6,0.0,6.28
-Roger Christian,8,0.0,5.25
-Riccardo Freda,12,0.0,5.19
-David M. Evans,8,0.0,4.95
-Ernest B. Schoedsack,8,0.0,5.95
-Louis Lumière,7,0.0,6.23
-Don Argott,8,0.0,6.66
-John Murlowski,8,0.0,4.8
-Cristi Puiu,5,0.0,6.36
-Robert Gardner,6,0.0,2.72
-Jerry Paris,8,0.0,4.79
-King Vidor,31,0.0,5.42
-Pat O'Connor,8,0.0,5.94
-Marco Bellocchio,11,0.0,6.41
-John Hough,16,0.0,5.22
-Jacques Audiard,7,0.0,6.76
-Dziga Vertov,9,0.0,6.99
-Seijun Suzuki,20,0.0,5.92
-Ernest R. Dickerson,11,0.0,5.23
-Mike Clattenburg,6,0.0,6.7
-Burt Gillett,10,0.0,5.86
-Sidney Lanfield,8,0.0,5.36
-Jared Cohn,7,0.0,3.34
-Ronny Yu,9,0.0,6.16
-Bill Forsyth,8,0.0,6.06
-Christian Zübert,5,0.0,6.22
-Andrey Zvyagintsev,5,0.0,7.26
-Vondie Curtis-Hall,5,0.0,5.52
-Troy Miller,12,0.0,6.62
-Gérard Krawczyk,5,0.0,5.64
-Jackie Chan,15,0.0,6.53
-Ellory Elkayem,5,0.0,4.64
-Kevin Macdonald,13,0.0,7.13
-Robert Bresson,12,0.0,7.22
-Yukihiko Tsutsumi,6,0.0,5.62
-Ted Kotcheff,18,0.0,6.11
-William K.L. Dickson ,22,0.0,4.64
-Kunihiko Yuyama,20,0.0,6.04
-Don Sharp,14,0.0,5.26
-Ching Siu-Tung,11,0.0,6.13
-Lloyd Kaufman,17,0.0,4.93
-Hal Ashby,11,0.0,6.14
-John McNaughton,9,0.0,5.1
-Jean Renoir,27,0.0,6.41
+Martin Scorsese,41,0.0,7.0
+John Bradshaw,9,0.0,5.79
+Nancy Savoca,6,0.0,4.9
+Robert Stevenson,29,0.0,6.1
+Robert Aldrich,29,0.0,6.29
+Julien Temple,15,0.0,6.17
+Keoni Waxman,12,0.0,4.35
+Abbas Kiarostami,26,0.0,6.35
+Teuvo Tulio,5,0.0,4.9
+René Clément,12,0.0,5.83
 Jen Soska,5,0.0,5.38
 Sylvia Soska,5,0.0,5.38
-Bille August,15,0.0,6.53
-Fred Wolf,6,0.0,5.13
-Charles Frend,6,0.0,5.42
-Katsuhito Ishii,5,0.0,6.1
-Sergiu Nicolaescu,12,0.0,7.82
-Mike Leigh,18,0.0,6.96
-Lee Frost,5,0.0,4.98
-Eric Bross,6,0.0,4.92
-Lauren Montgomery,9,0.0,6.79
-Jan Svěrák,6,0.0,7.3
-Shinichiro Watanabe,6,0.0,7.0
-Milan Luthria,6,0.0,5.1
-Emir Kusturica,12,0.0,6.81
-Ford Beebe,13,0.0,3.42
-Jack Hill ,9,0.0,5.66
-Fred M. Wilcox,6,0.0,6.13
-Mike Binder,7,0.0,6.21
-Basil Dearden,13,0.0,6.92
-Jon Gunn,5,0.0,6.28
-Sooraj R. Barjatya,5,0.0,5.78
-Dick Lowry,14,0.0,4.91
-Walter Salles,11,0.0,5.37
-Curtis Bernhardt,15,0.0,5.16
-Spencer Gordon Bennet,6,0.0,3.3
-Charles Band,21,0.0,4.25
-Ronald F. Maxwell,7,0.0,6.13
-William Clemens,8,0.0,5.95
-Peter Werner,7,0.0,5.53
-Alexandre Rockwell,5,0.0,5.6
-Bertrand Tavernier,16,0.0,6.31
-Sharon Lockhart,5,0.0,4.0
-George Sherman,8,0.0,3.84
-John Asher,10,0.0,3.88
-William Heise,13,0.0,4.66
-Chris Smith,5,0.0,7.14
-Dario Argento,18,0.0,5.95
-Vittorio De Sica,25,0.0,6.43
-Phillip J. Roth,6,0.0,3.83
-Joseph Kane,6,0.0,3.53
-Roberto Rossellini,22,0.0,6.72
-Bernardo Bertolucci,16,0.0,6.85
-Alfred E. Green,18,0.0,5.47
-Todd Solondz,7,0.0,6.34
-Marcel Carné,10,0.0,5.81
-Bert I. Gordon,17,0.0,4.2
-Sidney Franklin,11,0.0,5.77
-Richard Quine,16,0.0,5.93
-Shinji Aramaki,7,0.0,6.1
-Hugo Fregonese,6,0.0,4.97
-Wesley Ruggles,14,0.0,3.55
-Theo Angelopoulos,15,0.0,6.8
-Harry Beaumont,14,0.0,2.81
-Melanie Mayron,5,0.0,5.26
-Bruno Dumont,9,0.0,6.66
-James Whale,10,0.0,6.16
-SABU,10,0.0,6.47
-Michael Haneke,13,0.0,6.92
-Peter Tscherkassky,6,0.0,7.2
-Kate Davis,5,0.0,7.04
-Keoni Waxman,12,0.0,4.35
-George Waggner,8,0.0,5.34
-Enzo Barboni,10,0.0,5.3
+Michael Curtiz,65,0.0,5.26
+Kristoffer Tabori,10,0.0,6.28
+Norman Taurog,35,0.0,5.7
 Kiyoshi Kurosawa,18,0.0,6.54
-Volker Schlöndorff,22,0.0,6.19
-Ulu Grosbard,7,0.0,6.1
-Christian Petzold,7,0.0,6.9
-George W. Hill,6,0.0,3.68
-Albert Maysles,9,0.0,5.57
-David Maysles,6,0.0,5.93
-Guy Maddin,14,0.0,6.02
-Terry George,6,0.0,6.72
-Guillaume Nicloux,5,0.0,5.6
-Mauro Bolognini,14,0.0,4.73
-Jan Verheyen,6,0.0,5.33
-Daniel Lee,9,0.0,5.74
-David Butler,26,0.0,5.53
-Ted Nicolaou,10,0.0,5.09
-Jay Duplass,6,0.0,6.0
-Mark Duplass,5,0.0,5.8
-Jem Cohen,7,0.0,3.1
-Preston Sturges,9,0.0,7.18
-Sergio Corbucci,18,0.0,6.34
-John Fawcett,5,0.0,6.22
-Nick Hurran,5,0.0,5.98
-Massimo Venier,5,0.0,6.5
-Akan Satayev,5,0.0,5.26
-Joseph Barbera,9,0.0,6.56
-William Hanna,9,0.0,6.56
-Yakov Protazanov,5,0.0,4.8
-Monte Hellman,11,0.0,5.14
-Hal Hartley,13,0.0,6.43
-Ruggero Deodato,8,0.0,5.96
-Edward Buzzell,14,0.0,3.84
-Charles Lamont,12,0.0,5.62
-Demofilo Fidani,8,0.0,4.04
-Colin Nutley,5,0.0,4.6
-George B. Seitz,14,0.0,5.39
-Sam Firstenberg,10,0.0,4.6
-John Cassavetes,12,0.0,6.9
-Kevin O'Neill,5,0.0,4.22
-Sally Potter,6,0.0,5.92
-Mikhail Kalatozov,6,0.0,6.95
-Erle C. Kenton,6,0.0,6.77
-John Erman,5,0.0,5.56
-Kang Woo-Suk,5,0.0,7.08
-Stelvio Massi,14,0.0,2.78
-Jean Negulesco,21,0.0,6.1
-Kari Skogland,10,0.0,3.98
-Lenny Abrahamson,5,0.0,6.76
-Andrew Bergman,6,0.0,5.32
-Peter Bogdanovich,20,0.0,6.19
-James Hawes,6,0.0,5.58
-John Putch,5,0.0,4.06
-Lech Majewski,5,0.0,6.34
-William K. Howard,9,0.0,4.68
-Yorgos Lanthimos,5,0.0,6.3
-Sam Dunn,7,0.0,6.64
-Scot McFadyen,6,0.0,6.48
-Craig Moss,8,0.0,4.21
-Ulf Malmros,7,0.0,6.24
-Mark L. Lester,16,0.0,5.22
-Martha Coolidge,16,0.0,5.72
-Greg Barker,6,0.0,5.37
-Tobe Hooper,18,0.0,5.76
-Imtiaz Ali,5,0.0,6.74
-Vincenzo Natali,8,0.0,6.16
-Kevin Tenney,8,0.0,5.04
-Ron Oliver,16,0.0,5.36
-Irving Reis,7,0.0,5.11
-Gilbert Cates,6,0.0,5.52
-Greg Beeman,9,0.0,5.13
-Gaspar Noé,8,0.0,6.5
-Chris Hegedus,12,0.0,6.17
-Nick Castle,9,0.0,5.46
-Gianni Amelio,8,0.0,6.56
-Lou Ye,6,0.0,7.15
-Marino Girolami,8,0.0,4.44
-William Witney,12,0.0,3.76
-Nick Hamm,6,0.0,6.1
-Hideo Nakata,11,0.0,5.96
-Sergei Bodrov,6,0.0,5.1
-Joe Berlinger,11,0.0,6.07
-Shinya Tsukamoto,13,0.0,6.2
-Alexander Hall,13,0.0,5.86
-Dolph Lundgren,5,0.0,5.18
-Michel Hazanavicius,5,0.0,7.26
-Daisy von Scherler Mayer,7,0.0,4.67
-David DeCoteau,16,0.0,4.22
-Christopher Ray,6,0.0,3.27
-Takashi Shimizu,10,0.0,5.77
-Detlev Buck,5,0.0,6.42
-Geoff Murphy,9,0.0,5.72
-Dino Risi,26,0.0,6.16
-Roy William Neill,14,0.0,6.4
-Paul Schrader,19,0.0,5.64
-Joseph M. Newman,8,0.0,4.89
-Ferdinando Baldi,12,0.0,4.23
-Paul Ziller,15,0.0,3.59
-Ertem Eğilmez,7,0.0,7.46
-Michael Powell,23,0.0,6.32
-Peter Markle,10,0.0,5.61
-Murray Lerner,5,0.0,5.2
-Georgiy Daneliya,10,0.0,5.98
-René Clément,12,0.0,5.83
-Paul Mazursky,15,0.0,5.53
-Terry Ingram,9,0.0,4.03
-Yoo Ha,5,0.0,6.74
-James H. White,15,0.0,4.47
-Chris Marker,20,0.0,6.83
-Joan Micklin Silver,10,0.0,4.65
-Harry Bromley Davenport,5,0.0,4.78
-Ding Sheng,6,0.0,6.33
-John Schultz,7,0.0,5.8
-Paul Hoen,12,0.0,5.55
-Fred Zinnemann,18,0.0,6.45
-Mark Cousins,8,0.0,5.38
-Ole Christian Madsen,5,0.0,6.0
-Whit Stillman,5,0.0,6.48
-Lewis Allen,12,0.0,4.84
-Don Michael Paul,10,0.0,5.13
-Joseph L. Mankiewicz,22,0.0,6.66
-Keith Gordon,5,0.0,6.46
-James Bridges,8,0.0,4.19
-Susanne Bier,10,0.0,6.25
-Ted Demme,9,0.0,6.89
-Ralf Huettner,5,0.0,6.06
-Charles Grosvenor,10,0.0,5.87
-Benoît Jacquot,11,0.0,5.91
-Andrew Stevens,6,0.0,4.43
-Christopher Guest,8,0.0,5.99
-Beth McCarthy-Miller,6,0.0,5.25
-Alan Rudolph,18,0.0,5.9
-Gus Trikonis,6,0.0,3.63
-Jean-Pierre Améris,5,0.0,5.98
-Julien Temple,15,0.0,6.17
-Joshua Logan,9,0.0,6.68
-Jean Girault,12,0.0,6.52
-Jorge Furtado,5,0.0,7.1
-Abel Ferrara,22,0.0,5.87
-Michael Scott,8,0.0,4.89
-Michael Drumm,5,0.0,4.88
-Alan Gibson,5,0.0,5.0
-Terence Young,18,0.0,5.55
-Sion Sono,15,0.0,6.77
-Paul Tanter,5,0.0,4.2
-Hal Walker,6,0.0,5.97
-Larry Clark,9,0.0,5.93
-James Toback,9,0.0,5.34
-Indra Kumar,6,0.0,5.57
-Gakuryû Ishii,6,0.0,6.73
-Ida Lupino,8,0.0,6.55
-Erik Gandini,5,0.0,6.22
-Kenji Kamiyama,5,0.0,7.02
-Yôji Yamada,11,0.0,5.26
-Herbert Ross,23,0.0,6.34
-Mario Bianchi,5,0.0,1.52
-Tinto Brass,13,0.0,4.6
-Agnès Varda,12,0.0,6.88
-Gerd Oswald,8,0.0,5.19
-David Miller,13,0.0,5.35
-Adam Curtis,7,0.0,7.97
-Steve Boyum,8,0.0,4.82
-Tadeusz Konwicki,5,0.0,4.66
-Mike Hodges,10,0.0,6.1
-Jim Jarmusch,15,0.0,6.77
-Robert Mulligan,19,0.0,6.1
-JP Siili,5,0.0,6.26
-Daniel Zirilli,5,0.0,4.5
-Nick Lyon,7,0.0,4.07
-Jack Cardiff,9,0.0,5.41
-Yves Simoneau,11,0.0,4.8
-Louis C.K.,11,0.0,6.76
-Robert Iscove,10,0.0,4.9
-Michael Schultz,12,0.0,4.9
-Steven Feinartz,6,0.0,2.77
-Anthony Hickox,11,0.0,4.95
-Kazuo Mori,7,0.0,5.61
-Ben Stassen,9,0.0,5.91
-Yves Robert,10,0.0,6.68
-Nils Malmros,5,0.0,6.96
-John Herzfeld,7,0.0,5.23
-Jeannot Szwarc,8,0.0,5.49
-Priyadarshan,15,0.0,5.9
-Lee H. Katzin,8,0.0,4.59
-P.J. Pesce,5,0.0,5.36
-Jeffrey Lau,5,0.0,6.6
-Michael Mayer,5,0.0,6.34
-Craig R. Baxley,11,0.0,5.47
-Louis King,8,0.0,3.6
-Fred C. Newmeyer,10,0.0,6.79
-Craig Pryce,5,0.0,5.64
-Michael Herz,7,0.0,5.07
-Cédric Kahn,5,0.0,6.04
-Jerzy Skolimowski,15,0.0,5.75
-Charles Jarrott,11,0.0,4.05
-Freddie Francis,19,0.0,5.65
-Richard T. Heffron,8,0.0,4.21
-Danny Pang,10,0.0,5.52
-Roman Kachanov,6,0.0,6.5
-Jerry Lewis,11,0.0,5.33
-Bernard L. Kowalski,5,0.0,3.44
-Jay Chapman,20,0.0,5.59
-Peter Chan,7,0.0,6.53
-Christopher Leitch,6,0.0,5.37
-Paul Wendkos,15,0.0,4.22
-Sam Liu,10,0.0,6.76
-Sam Taylor,16,0.0,5.32
-Jiří Menzel,8,0.0,6.89
-Lamont Johnson,13,0.0,5.11
-Larry Fessenden,5,0.0,5.24
-Raúl Ruiz,17,0.0,6.09
-Alexander Sokurov,19,0.0,6.06
-Felix E. Feist,7,0.0,5.56
-Hal Roach,8,0.0,7.05
-Les Blank,11,0.0,5.74
-Michel Gondry,13,0.0,6.55
-Robert Benton,11,0.0,6.28
-Victor Salva,8,0.0,5.86
-Emilis Velyvis,5,0.0,6.12
-Rolf de Heer,10,0.0,6.07
-Tibor Takács,12,0.0,4.12
-Eran Riklis,5,0.0,6.74
-Edward Yang,6,0.0,7.88
-Caroline Link,5,0.0,6.64
-Luigi Comencini,16,0.0,5.87
-F.W. Murnau,10,0.0,7.44
-Kenji Mizoguchi,17,0.0,6.68
-Jérôme Salle,5,0.0,6.46
-Tokuzô Tanaka,6,0.0,5.67
-Barbet Schroeder,14,0.0,6.29
-Philippe Falardeau,7,0.0,6.24
-Danis Tanović,5,0.0,6.68
-Mika Kaurismäki,19,0.0,5.91
-Martin Ritt,22,0.0,6.09
-Heidi Ewing,6,0.0,7.0
-Rachel Grady,6,0.0,7.0
-Bo Widerberg,5,0.0,5.86
-André De Toth,13,0.0,5.26
-Irving Pichel,14,0.0,5.84
-Věra Chytilová,5,0.0,6.4
-Albert Band,7,0.0,5.11
-Richard Attenborough,11,0.0,6.77
-Ryoo Seung-wan,5,0.0,6.66
-Timo Koivusalo,5,0.0,5.04
-John R. Cherry III,10,0.0,4.29
-Mike Barker,6,0.0,5.95
-Pablo Trapero,8,0.0,6.4
-Arnaud Desplechin,8,0.0,6.25
-Alex Winter,5,0.0,6.04
-Jean-Jacques Beineix,6,0.0,6.38
-Eugenio Martín,5,0.0,5.7
-Philip Haas,6,0.0,5.97
-Manny Coto,5,0.0,4.9
-Gregory Ratoff,9,0.0,5.1
-James Franco,12,0.0,5.86
-Fernando Di Leo,13,0.0,5.9
-Guy Green,8,0.0,5.81
-Mark Jean,6,0.0,5.78
-Don Weis,6,0.0,5.05
-Hamilton MacFadden,5,0.0,4.4
-Edwin S. Porter,9,0.0,5.98
-Shane Meadows,8,0.0,6.6
-Kazuchika Kise,6,0.0,7.03
-Norman McLaren,20,0.0,5.33
-Billy Wilder,27,0.0,7.03
-Juan José Campanella,6,0.0,6.7
-Ava DuVernay,5,0.0,7.28
-Anne Fontaine,10,0.0,5.98
-Dante Lam,11,0.0,6.09
-Michael Feifer,18,0.0,3.84
-Tomás Gutiérrez Alea,5,0.0,6.54
-Bill Duke,8,0.0,5.09
-Mark Rappaport,6,0.0,3.9
-Asghar Farhadi,6,0.0,7.43
-Allan Arkush,9,0.0,5.89
-Ethan Spaulding,5,0.0,6.9
-Douglas Sirk,22,0.0,6.05
-Orson Welles,20,0.0,6.38
-David Mamet,11,0.0,6.36
-Aleksandr Ptushko,6,0.0,5.1
-Richard Brooks,21,0.0,6.46
-Erich von Stroheim,8,0.0,6.38
-Nils Gaup,5,0.0,5.9
-Nadia Tass,9,0.0,5.7
-Kim Jee-woon,10,0.0,6.79
-Sturla Gunnarsson,5,0.0,3.04
-Rohit Shetty,9,0.0,5.67
-Robert J. Flaherty,6,0.0,5.88
-Tsai Ming-liang,13,0.0,7.04
-Rudolph Maté,16,0.0,5.78
-David Leland,5,0.0,6.66
-Peter Richardson,5,0.0,5.46
-Louis Malle,23,0.0,6.62
-W.S. Van Dyke,35,0.0,4.81
-Mike Disa,5,0.0,5.52
-Keisuke Kinoshita,14,0.0,5.58
-Vsevolod Pudovkin,5,0.0,6.36
-Bruce Beresford,27,0.0,5.88
-Paul Andrew Williams,5,0.0,6.14
-Roy Ward Baker,22,0.0,6.3
-Taylor Hackford,14,0.0,6.49
-Lance Bangs,17,0.0,6.57
-John Waters,12,0.0,6.24
-René Clair,16,0.0,5.91
-Jesús Franco,23,0.0,5.15
-James Keach,6,0.0,5.03
-Władysław Pasikowski,5,0.0,7.0
-David Hare,5,0.0,6.54
-Alan Rafkin,5,0.0,6.14
-Adam Rifkin,8,0.0,5.58
-Wladyslaw Starewicz,5,0.0,5.5
-Alan Metter,5,0.0,5.6
-Peter Godfrey,11,0.0,5.37
-Walt Disney,6,0.0,6.83
-Brian Yuzna,7,0.0,5.46
-Jaco Van Dormael,5,0.0,7.02
-Dick Powell,5,0.0,5.3
-Mark Rosman,8,0.0,5.54
-Pete Travis,5,0.0,6.22
-Pietro Germi,6,0.0,6.65
-James Algar,11,0.0,5.81
-Robert Greenwald,10,0.0,5.84
-Delbert Mann,20,0.0,5.76
-Mark Herman,6,0.0,6.52
-Adam Brooks,5,0.0,5.96
-Fenton Bailey,10,0.0,6.01
-Randy Barbato,10,0.0,6.01
-Gilles Grangier,5,0.0,5.04
-Vlad Yudin,5,0.0,6.42
-Srđan Dragojević,6,0.0,7.22
-Fisher Stevens,6,0.0,4.82
-Larry Cohen,14,0.0,5.37
-Jack Starrett,5,0.0,4.48
 Robert Florey,14,0.0,5.67
-James Goldstone,9,0.0,3.98
-Amando de Ossorio,8,0.0,2.94
-Zhang Yang,6,0.0,7.08
-Pen-Ek Ratanaruang,7,0.0,6.54
-Robert Fuest,6,0.0,6.28
-Nikhil Advani,5,0.0,5.96
-Randal Kleiser,13,0.0,5.63
-Jafar Panahi,8,0.0,6.94
-Charles B. Griffith,5,0.0,3.72
-Jean-Marie Poiré,6,0.0,5.87
-James W. Horne,5,0.0,5.6
-Yash Chopra,6,0.0,5.58
-Uwe Boll,25,0.0,4.14
-Silvio Narizzano,5,0.0,5.26
-Takeshi Kitano,18,0.0,6.86
-Jonas Mekas,5,0.0,8.68
-Kevin Hooks,9,0.0,4.4
-Stephen Chow,10,0.0,6.75
-Tomas Alfredson,6,0.0,5.33
-Luis García Berlanga,6,0.0,6.88
-Rachid Bouchareb,6,0.0,6.33
-Tom Laughlin,5,0.0,5.0
-Jacques Doillon,5,0.0,6.06
-Max Ophüls,10,0.0,7.01
-Richard Glatzer,5,0.0,5.72
-Jan Hřebejk,6,0.0,6.32
-Alex Zamm,12,0.0,5.32
-Rod Lurie,7,0.0,6.41
-Jean Rollin,13,0.0,5.28
-Mike Thurmeier,6,0.0,6.67
-Brett Morgen,5,0.0,6.76
-Jack Perez,5,0.0,4.04
-Juliusz Machulski,12,0.0,7.13
-Mark Zakharov,6,0.0,6.83
-Michelangelo Antonioni,18,0.0,6.81
-Bruno Corbucci,12,0.0,6.06
-Sidney Salkow,9,0.0,5.02
-Alfonso Brescia,9,0.0,2.89
-Ken Hughes,9,0.0,5.88
-Scott L. Montoya,8,0.0,3.56
-Gene Saks,5,0.0,6.74
-Mark Robson,23,0.0,6.1
-Trey Parker,7,0.0,7.04
-Noriaki Yuasa,6,0.0,4.93
-George Albert Smith,5,0.0,5.76
-Ernst Lubitsch,27,0.0,6.61
-Gurinder Chadha,9,0.0,5.96
-Michael Almereyda,8,0.0,3.96
-Hubert Cornfield,5,0.0,6.1
-Peter Sasdy,9,0.0,5.48
-Eric Red,5,0.0,5.54
-Marc Levin,6,0.0,6.63
-Bent Hamer,6,0.0,6.0
-Irving Rapper,12,0.0,5.77
-Pasquale Festa Campanile,7,0.0,4.89
-Daniel Petrie,16,0.0,5.39
-Jean-Marie Straub,8,0.0,6.5
-Danièle Huillet,7,0.0,6.39
-Jeffrey Schwarz,5,0.0,6.12
-Gordon Hessler,11,0.0,5.27
-Peter R. Hunt,7,0.0,4.53
-Matteo Garrone,5,0.0,6.64
-Ousmane Sembene,9,0.0,6.97
-Don E. FauntLeRoy,7,0.0,3.97
-Clyde Geronimi,13,0.0,6.52
-Jonathan Miller,6,0.0,7.15
-Stewart Raffill,12,0.0,4.86
-Jean Cocteau,5,0.0,7.46
-Leslie H. Martinson,6,0.0,6.47
-Ralph Thomas,14,0.0,5.81
-Patricio Guzmán,8,0.0,6.91
-Marcus Raboy,14,0.0,6.46
-Kjell Sundvall,6,0.0,5.5
-Yevgeni Bauer,5,0.0,5.94
-Petter Næss,5,0.0,5.38
-Jørgen Leth,10,0.0,4.79
-Curtis Harrington,9,0.0,5.38
-Matt Cimber,5,0.0,5.34
-Karen Shakhnazarov,7,0.0,6.09
-Athina Rachel Tsangari,5,0.0,4.48
-Jeff Bleckner,10,0.0,5.57
-Stuart Heisler,17,0.0,5.39
-Herbert L. Strock,5,0.0,4.64
-Ricky Gervais,5,0.0,6.3
-Boaz Davidson,10,0.0,5.37
-Gillies MacKinnon,9,0.0,5.96
-Darin Scott,5,0.0,4.54
-Frank Tuttle,9,0.0,4.34
-Karel Reisz,8,0.0,6.29
-Brian Gibson,5,0.0,6.46
-Yojiro Takita,5,0.0,5.26
-Duccio Tessari,13,0.0,5.07
-Harley Cokeliss,6,0.0,5.63
-Romolo Guerrieri,8,0.0,4.51
-Aaron Katz,5,0.0,4.82
-Andrei Tarkovsky,11,0.0,7.14
-Harun Farocki,11,0.0,5.03
-László Benedek,6,0.0,5.82
-Jacques Deray,10,0.0,6.26
-Baltasar Kormákur,10,0.0,6.25
-Tom DiCillo,7,0.0,6.34
-Bahman Ghobadi,6,0.0,6.77
-Shigeyasu Yamauchi,7,0.0,6.46
-Luciano Ercoli,5,0.0,4.06
-Daniel Alfredson,7,0.0,5.69
-George Pollock,6,0.0,6.67
-Lucky McKee,6,0.0,5.87
-Sebastian Junger,5,0.0,6.82
-Jerry Schatzberg,10,0.0,5.73
-José Luis Guerin,5,0.0,7.4
-Nicolas Roeg,15,0.0,6.14
-Sanjay Leela Bhansali,8,0.0,7.1
-David S. Cass Sr.,8,0.0,4.91
-Isao Takahata,10,0.0,6.5
-Stuart Gillard,15,0.0,4.87
-Henry Koster,33,0.0,5.7
-Masahiro Shinoda,9,0.0,5.9
-Michael Radford,9,0.0,6.38
-Cy Endfield,10,0.0,6.12
-George Roy Hill,14,0.0,6.74
-Nick Broomfield,15,0.0,5.11
-Lewis Gilbert,17,0.0,6.36
-Herschell Gordon Lewis,9,0.0,4.86
-Aleksey Fedorchenko,5,0.0,6.1
-William Dear,13,0.0,5.35
-Kimiyoshi Yasuda,6,0.0,6.33
-Luchino Visconti,16,0.0,7.03
-Edgar G. Ulmer,12,0.0,5.08
-John Cromwell,20,0.0,5.41
-William Nigh,11,0.0,5.34
-Philip Dunne,7,0.0,5.44
-Emilio Estevez,6,0.0,6.18
-Tim Hunter,5,0.0,5.54
-William Klein,6,0.0,4.58
-Oscar Micheaux,5,0.0,2.36
-Ere Kokkonen,9,0.0,5.58
-David Swift,6,0.0,5.88
-Phillip Borsos,5,0.0,6.16
-Danièle Thompson,6,0.0,5.77
-Bradley Raymond,6,0.0,5.97
-Kevin Fair,6,0.0,6.37
-Zhang Yuan,5,0.0,7.16
-Maxwell Shane,5,0.0,5.12
-Stefan Ruzowitzky,6,0.0,6.28
-Manny Rodriguez,11,0.0,5.85
-Joseph Vilsmaier,6,0.0,5.6
-Apichatpong Weerasethakul,7,0.0,6.16
-Ali Khamrayev,7,0.0,3.07
-Karel Zeman,7,0.0,6.79
-Olivier Dahan,6,0.0,5.98
-Brett Sullivan,7,0.0,6.74
-Damian Lee,10,0.0,4.73
-John Duigan,11,0.0,5.88
-Michael Pressman,8,0.0,5.97
-David Steinberg,5,0.0,6.44
-Cédric Klapisch,10,0.0,6.54
-Maggie Greenwald,5,0.0,5.5
-Greydon Clark,11,0.0,4.36
-John S. Robertson,6,0.0,4.3
-Jonathan Liebesman,7,0.0,5.5
-John Lyde,9,0.0,5.1
-John Gray,7,0.0,5.54
-Timothy Bond,8,0.0,5.15
-Laurent Tirard,6,0.0,5.83
-Quentin Dupieux,5,0.0,5.94
-Luigi Magni,5,0.0,3.94
-Nanni Loy,5,0.0,6.8
-Ray Taylor,5,0.0,3.9
-Rodrigo García,7,0.0,6.03
-Wang Xiaoshuai,5,0.0,6.54
-John Pilger,6,0.0,7.1
-Ivan Passer,8,0.0,5.84
+Tay Garnett,19,0.0,5.82
 Charles B. Pierce,7,0.0,5.23
-David M. Rosenthal,5,0.0,4.54
-John Paddy Carstairs,5,0.0,6.04
-Alain Corneau,8,0.0,6.92
-Ermanno Olmi,9,0.0,5.92
-Oxide Pang Chun,12,0.0,5.49
-John Alan Schwartz,7,0.0,2.37
-Guy Ferland,5,0.0,5.38
-Adam Dubin,5,0.0,6.88
-Pan Nalin,5,0.0,6.38
-Michele Massimo Tarantini,6,0.0,4.45
-Goran Paskaljević,5,0.0,3.78
+Michael Lindsay-Hogg,9,0.0,5.74
+George Stevens,21,0.0,6.13
+Anthony Asquith,15,0.0,6.21
+Russell Mulcahy,19,0.0,5.35
+Zhang Yimou,20,0.0,6.93
+Zeki Demirkubuz,6,0.0,7.45
+Michel Ocelot,5,0.0,7.22
+Jackie Chan,15,0.0,6.53
+Alan Gibson,5,0.0,5.0
+Sion Sono,15,0.0,6.77
+Andrew V. McLaglen,21,0.0,5.89
+Ernst Lubitsch,27,0.0,6.61
+J. Lee Thompson,35,0.0,5.96
+Mark L. Lester,16,0.0,5.22
+George Waggner,8,0.0,5.34
+Seijun Suzuki,20,0.0,5.92
+George B. Seitz,14,0.0,5.39
+Robert Harmon,16,0.0,6.1
+Jaume Balagueró,7,0.0,6.04
+Guy Green,8,0.0,5.81
+William Tannen,5,0.0,4.74
+Mike Figgis,14,0.0,5.96
+Gakuryû Ishii,6,0.0,6.73
+Konstantin Lopushanskiy,5,0.0,6.26
+Shunji Iwai,9,0.0,6.16
+Nobuyoshi Habara,6,0.0,6.03
+Lambert Hillyer,5,0.0,3.9
+Paul Mazursky,15,0.0,5.53
+Ken Annakin,22,0.0,6.42
+Andrew Marton,7,0.0,5.27
+Bitto Albertini,5,0.0,1.44
+Michel Hazanavicius,5,0.0,7.26
 George Hickenlooper,6,0.0,6.8
-Jason Woliner,5,0.0,7.38
-Leslie Small,6,0.0,4.33
-Waris Hussein,6,0.0,4.4
-Frank Henenlotter,6,0.0,5.63
-Mel Damski,8,0.0,6.16
+Sergio Martino,23,0.0,4.69
+Frank Capra,36,0.0,5.44
+Jörn Donner,9,0.0,3.29
+Stephen Poliakoff,8,0.0,5.53
+Lewis Gilbert,17,0.0,6.36
+Henry King,30,0.0,5.4
+Anne Wheeler,5,0.0,5.9
+Robert Bresson,12,0.0,7.23
+William Castle,28,0.0,4.84
+Jean Delannoy,5,0.0,6.12
+Ethan Spaulding,5,0.0,6.9
+Jorge Furtado,5,0.0,7.1
+Don Argott,8,0.0,6.66
+Alfred E. Green,18,0.0,5.47
+Kim Ki-duk,21,0.0,6.48
+David Butler,26,0.0,5.53
+François Truffaut,24,0.0,7.12
+Christopher Menaul,9,0.0,4.38
+František Vláčil,9,0.0,5.98
+Rowland V. Lee,8,0.0,4.19
+Anne Fontaine,10,0.0,5.98
+Nick Castle,9,0.0,5.46
+Nelson Pereira dos Santos,6,0.0,3.87
+Madhur Bhandarkar,5,0.0,5.86
+Roy William Neill,14,0.0,6.4
+Henry Hathaway,43,0.0,5.61
+Joel Gallen,18,0.0,6.63
+Uli Edel,14,0.0,5.9
+Victor Sjöström,13,0.0,5.62
+Kelly Reichardt,8,0.0,6.51
+James Franco,12,0.0,5.86
+Owen Hurley,5,0.0,5.94
+Rowdy Herrington,7,0.0,5.67
+Billy Wilder,27,0.0,7.03
+Michael Apted,35,0.0,6.39
+Charles Crichton,9,0.0,6.32
+Howard W. Koch,7,0.0,4.64
+Eugene Jarecki,6,0.0,6.45
+Robert N. Bradbury,13,0.0,4.43
+Anthony Mann,35,0.0,6.18
+Busby Berkeley,18,0.0,5.22
+Armand Mastroianni,9,0.0,3.79
+Sergey Bondarchuk,11,0.0,5.94
+Frank Tashlin,17,0.0,5.51
+Timo Tjahjanto,5,0.0,6.06
+Gordon Douglas,34,0.0,5.16
+Michael Ritchie,21,0.0,6.11
+Lo Wei,9,0.0,6.43
+Vincente Minnelli,33,0.0,5.97
 Stan Brakhage,11,0.0,6.96
-Carl Theodor Dreyer,9,0.0,7.28
-Fernando Trueba,8,0.0,6.29
-Bigas Luna,5,0.0,5.7
-Vicente Aranda,8,0.0,5.64
-Yoshishige Yoshida,9,0.0,7.46
-Lucian Pintilie,7,0.0,6.43
-Jack Sholder,10,0.0,5.47
-Dominic Brigstocke,7,0.0,7.44
-Leon Gast,5,0.0,7.56
-Santiago Segura,5,0.0,5.76
-William Kaufman,7,0.0,5.46
-Elio Petri,8,0.0,6.44
-Lee Joon-ik,5,0.0,6.64
-Massimo Dallamano,9,0.0,4.89
-Shyam Ramsay,8,0.0,1.85
-Tulsi Ramsay,7,0.0,2.11
-Marleen Gorris,5,0.0,6.18
-Peter Flinth,6,0.0,6.08
-Fred Schepisi,17,0.0,6.24
-Makoto Shinkai,9,0.0,6.81
-Bruno Barreto,9,0.0,5.97
-Paul Newman,5,0.0,6.24
-Amos Gitai,9,0.0,5.61
-Joe D'Amato,16,0.0,4.14
-Neill Blomkamp,9,0.0,6.93
-Bernard Rose,12,0.0,5.57
-Charles Burnett,5,0.0,6.46
-Kenny Ortega,10,0.0,6.25
-Bertrand Blier,11,0.0,6.19
-Bradford May,11,0.0,5.25
-Pierre Étaix,5,0.0,6.12
-Adam Mason,5,0.0,4.62
-Michael Schaack,5,0.0,4.96
-Robert Conway,5,0.0,4.04
-Morgan Spurlock,7,0.0,6.49
-Bruce Timm,5,0.0,7.3
-Sut Jhally,7,0.0,4.51
-John Gulager,5,0.0,4.84
-Károly Makk,6,0.0,4.42
-Jean-Pierre Gorin,5,0.0,6.06
-John Kent Harrison,7,0.0,5.07
-Peter Watkins,9,0.0,6.74
-Spike Jonze,14,0.0,5.86
-Hrishikesh Mukherjee,5,0.0,5.86
-George McCowan,7,0.0,4.37
-Jeff Burr,10,0.0,5.28
+Mani Ratnam,13,0.0,6.64
+James Whale,10,0.0,6.16
+Richard Stanley,7,0.0,4.99
+Robert Butler,9,0.0,4.12
+Ferdinando Baldi,12,0.0,4.23
+Julian Jarrold,9,0.0,5.88
+Victor Fleming,15,0.0,5.87
+Richard Attenborough,11,0.0,6.77
+Freddie Francis,19,0.0,5.65
+Mikhail Kalatozov,6,0.0,6.95
+Henry Koster,33,0.0,5.7
+Nick Willing,8,0.0,5.74
+Richard Laxton,5,0.0,6.64
+Tim Fywell,9,0.0,6.2
+Oz Scott,5,0.0,5.18
+Fritz Lang,38,0.0,6.62
+Uwe Boll,25,0.0,4.14
+Kevin Macdonald,13,0.0,7.13
+John Sturges,29,0.0,5.88
+Roberto Rossellini,22,0.0,6.72
+Rouben Mamoulian,14,0.0,5.09
+Steven R. Monroe,14,0.0,4.75
+Sidney Lumet,46,0.0,6.15
+Ralph Thomas,14,0.0,5.81
+Mark Atkins,13,0.0,3.02
+Yasujirō Ozu,31,0.0,6.45
+Władysław Pasikowski,5,0.0,7.0
+Roger Young,10,0.0,5.39
+Jay Oliva,12,0.0,6.88
+Robert Young,5,0.0,5.96
+William Heise,13,0.0,4.66
+Jack Conway,23,0.0,5.6
+Mark Zakharov,6,0.0,6.83
+Sergio Corbucci,18,0.0,6.34
+Martha Coolidge,16,0.0,5.72
+Douglas Sirk,22,0.0,6.05
+W.S. Van Dyke,35,0.0,4.81
 Abbas Alibhai Burmawalla,11,0.0,5.56
 Mastan Alibhai Burmawalla,11,0.0,5.56
-Eugene Forde,7,0.0,5.7
-Catherine Breillat,10,0.0,5.34
-Jim McBride,11,0.0,5.17
-Pavel Lungin,6,0.0,6.02
-Steven Hilliard Stern,7,0.0,5.17
+Val Guest,20,0.0,5.62
+Luchino Visconti,16,0.0,7.03
+David S. Cass Sr.,8,0.0,4.91
 Marc Rothemund,7,0.0,6.4
-Terry Miles,6,0.0,5.58
-Ritwik Ghatak,5,0.0,6.24
-Franklin J. Schaffner,13,0.0,6.62
-Anthony Harvey,6,0.0,6.47
-Frank Lloyd,10,0.0,5.04
-George Archainbaud,5,0.0,2.88
-Aleksey German,6,0.0,6.67
-Jia Zhangke,9,0.0,7.21
-Mark A.Z. Dippé,8,0.0,5.2
-Darren Lynn Bousman,10,0.0,5.6
+Sut Jhally,7,0.0,4.51
+Joachim Lafosse,5,0.0,6.1
+Sebastian Junger,5,0.0,6.82
+Shannon Hartman,14,0.0,6.73
+Charles Walters,20,0.0,5.72
+Kjell Sundvall,6,0.0,5.5
+Sheldon Wilson,8,0.0,4.31
+David Winning,8,0.0,4.8
+Miguel M. Delgado,14,0.0,5.92
+Rocco Urbisci,9,0.0,7.82
+Vidhu Vinod Chopra,5,0.0,5.94
+Ted Kotcheff,18,0.0,6.11
+Umberto Lenzi,32,0.0,5.17
+Tom McLoughlin,13,0.0,5.09
+Max Ophüls,10,0.0,7.01
+Joseph Pevney,13,0.0,5.82
+Cecil B. DeMille,29,0.0,5.8
+Mark Robson,23,0.0,6.1
+Jacques Deray,10,0.0,6.26
+Edward Sedgwick,16,0.0,3.57
+Chuck Jones,27,0.0,6.7
+Kevin Connor,18,0.0,5.13
+George T. Miller,11,0.0,4.66
+Allan Arkush,9,0.0,5.89
+Maggie Greenwald,5,0.0,5.5
+Bruce Beresford,27,0.0,5.88
+Frank R. Strayer,7,0.0,6.46
+Theo Angelopoulos,15,0.0,6.8
+Karel Zeman,7,0.0,6.79
+Claude Miller,11,0.0,6.35
+Allison Anders,9,0.0,5.74
+Kurt Voss,5,0.0,3.88
+Sammo Hung,18,0.0,6.44
+Jerry Ciccoritti,6,0.0,5.9
+Karen Shakhnazarov,7,0.0,6.09
+Ken Russell,19,0.0,5.99
+Irving Reis,7,0.0,5.11
+Shinsuke Sato,7,0.0,5.3
+Marcel Carné,10,0.0,5.81
+Otto Preminger,30,0.0,6.37
+Kōji Wakamatsu,6,0.0,5.8
+Bille Woodruff,9,0.0,5.63
+William Witney,12,0.0,3.76
+Henry Levin,20,0.0,4.86
+Noriaki Yuasa,6,0.0,4.93
+Georges Méliès,49,0.0,5.93
+Terry Zwigoff,5,0.0,7.24
+Laurence Olivier,5,0.0,5.84
+John Putch,5,0.0,4.06
 Richard C. Sarafian,10,0.0,5.94
-Adrián García Bogliano,5,0.0,5.72
-Kirby Dick,10,0.0,5.51
-Mick Garris,7,0.0,5.29
-Roy Boulting,10,0.0,6.9
-Stuart Gordon,13,0.0,5.55
-Warren P. Sonoda,5,0.0,4.18
-Buzz Kulik,10,0.0,6.05
-Tage Danielsson,5,0.0,6.54
-David Anspaugh,6,0.0,5.88
-Carlo Verdone,12,0.0,6.42
-Sam Newfield,8,0.0,3.29
-Patrick Lussier,7,0.0,5.01
-William Malone,5,0.0,4.64
+Tonino Valerii,7,0.0,6.34
+Martyn Burke,5,0.0,4.72
+Anthony C. Ferrante,6,0.0,4.57
+Alberto Lattuada,14,0.0,5.52
+William Asher,9,0.0,6.61
+Jack Gold,13,0.0,5.28
 Amy Heckerling,9,0.0,5.84
-Rowdy Herrington,7,0.0,5.67
-Fred Niblo,7,0.0,6.51
-Edward Ludwig,5,0.0,5.46
-Kon Ichikawa,9,0.0,7.09
-Margarethe von Trotta,7,0.0,6.3
-William Cameron Menzies,7,0.0,5.59
-Hector Babenco,6,0.0,7.0
-Thomas Vinterberg,8,0.0,6.79
-Kouji Morimoto,7,0.0,7.0
-Edward L. Cahn,9,0.0,4.09
-Ted Tetzlaff,8,0.0,6.15
-Stefan Fjeldmark,5,0.0,5.94
-James Huth,5,0.0,5.0
-George Pal,5,0.0,6.4
-Shunji Iwai,9,0.0,6.16
-Lucy Walker,7,0.0,7.23
-Gianfranco Parolini,8,0.0,4.62
-Mikael Salomon,11,0.0,5.26
-Larry Charles,6,0.0,5.95
-Gordon Chan,14,0.0,5.14
-Majid Majidi,7,0.0,7.07
-Harry L. Fraser,6,0.0,3.12
-Mike Mendez,7,0.0,5.47
-Diane Kurys,7,0.0,5.44
-Charles Crichton,9,0.0,6.32
-Sebastian Gutierrez,7,0.0,5.2
-Joe Swanberg,13,0.0,5.78
-Yung Chang,5,0.0,5.26
-Lucas Belvaux,5,0.0,6.66
-Friðrik Þór Friðriksson,8,0.0,5.14
-Nuri Bilge Ceylan,7,0.0,6.86
-Sidney Poitier,8,0.0,6.1
-Rachel Talalay,5,0.0,4.62
-Allan Moyle,8,0.0,6.59
-Arthur Marks,6,0.0,6.1
+William K.L. Dickson ,22,0.0,4.64
+Ertem Eğilmez,7,0.0,7.46
+Duwayne Dunham,7,0.0,5.87
 Álex de la Iglesia,15,0.0,6.29
-Corey Yuen Kwai,14,0.0,6.11
-Kelly Reichardt,8,0.0,6.51
+Pier Paolo Pasolini,19,0.0,6.09
+Tom Gries,8,0.0,6.19
+Akira Kurosawa,30,0.0,7.28
+Glenn A. Jordan,10,0.0,6.19
+Damian Lee,10,0.0,4.73
+Ricky Gervais,5,0.0,6.3
+Jerzy Kawalerowicz,5,0.0,6.2
+John Waters,12,0.0,6.24
+Togan Gökbakar,5,0.0,5.66
+Hou Hsiao-hsien,21,0.0,6.89
+John Boulting,6,0.0,6.8
+John Cassavetes,12,0.0,6.9
+Wesley Ruggles,14,0.0,3.55
+Vince Marcello,5,0.0,6.22
+Peter Chan,7,0.0,6.53
+Aleksi Mäkelä,12,0.0,6.04
+Jim Jarmusch,15,0.0,6.77
+Nico Mastorakis,5,0.0,4.22
+Peter Watkins,9,0.0,6.74
+Kirby Dick,10,0.0,5.51
+Doris Dörrie,9,0.0,5.72
+John Gray,7,0.0,5.54
+Jean-Claude Brisseau,5,0.0,5.78
+Otar Iosseliani,7,0.0,4.84
+Sidney J. Furie,24,0.0,4.96
+Feng Xiaogang,9,0.0,6.54
+Kenji Mizoguchi,17,0.0,6.68
+Delmer Daves,20,0.0,6.0
+Nick Gomez,6,0.0,5.57
+Stijn Coninx,6,0.0,6.23
+Damian Harris,5,0.0,5.5
+Jean Rouch,5,0.0,6.66
+Yoshishige Yoshida,9,0.0,7.46
+Alekos Sakellarios,6,0.0,7.38
+Richard Holm,6,0.0,6.17
+Aki Kaurismäki,24,0.0,6.37
+Luis Buñuel,26,0.0,7.12
+John M. Stahl,6,0.0,6.87
+Mick Jackson,13,0.0,6.24
+Claude Zidi,14,0.0,6.11
+Vondie Curtis-Hall,5,0.0,5.52
+Paul Tanter,5,0.0,4.2
+Christopher Smith,8,0.0,6.21
+Apichatpong Weerasethakul,7,0.0,6.16
+Lesley Selander,10,0.0,2.92
+Ishirô Honda,23,0.0,5.87
+John Flynn,11,0.0,5.96
+Christopher Leitch,6,0.0,5.37
+Isao Takahata,10,0.0,6.5
+Michael Feifer,18,0.0,3.84
+William Nigh,11,0.0,5.34
+Stephen Chow,10,0.0,6.75
+Mikio Naruse,17,0.0,5.81
+Dinos Dimopoulos,5,0.0,6.62
+Larry Peerce,12,0.0,5.09
+Bud Yorkin,7,0.0,5.54
+Sarik Andreasyan,10,0.0,4.33
+Kunihiko Yuyama,20,0.0,6.04
+Gaspar Noé,8,0.0,6.5
+Francesco Rosi,14,0.0,5.96
+Frank Perry,11,0.0,6.26
+Joseph McGrath,5,0.0,5.88
+Nikita Mikhalkov,11,0.0,5.61
+Jeff Lieberman,5,0.0,6.06
+John Lyde,9,0.0,5.1
+Patricio Guzmán,8,0.0,6.91
+Ingmar Bergman,39,0.0,7.12
+Nicholas Ray,23,0.0,6.38
+Akihiko Shiota,5,0.0,5.72
+Jack Clayton,8,0.0,6.31
+Aaron Katz,5,0.0,4.82
+Richard Fleischer,35,0.0,5.94
+Jean Negulesco,21,0.0,6.1
+Lloyd Kaufman,17,0.0,4.93
+Michael Herz,7,0.0,5.07
+Alan Rudolph,18,0.0,5.9
+Darren Lynn Bousman,10,0.0,5.6
+Miloš Forman,13,0.0,6.93
+Joshua Logan,9,0.0,6.68
+Lance Bangs,17,0.0,6.57
+Les Blank,11,0.0,5.74
+Jean Girault,12,0.0,6.52
+Bart Freundlich,6,0.0,5.07
+Herbert L. Strock,5,0.0,4.64
+Édouard Molinaro,7,0.0,6.43
+Joseph L. Mankiewicz,22,0.0,6.66
+Paddy Breathnach,5,0.0,5.86
+Roy Rowland,16,0.0,4.31
+Monte Hellman,11,0.0,5.14
+Ken Hughes,9,0.0,5.88
+Jonathan Miller,6,0.0,7.15
+Tadeusz Konwicki,5,0.0,4.66
+Phil Rosen,9,0.0,4.39
+Albert Pyun,32,0.0,4.24
+Daniel Burman,5,0.0,6.1
+Michael Polish,10,0.0,5.65
+Bruno Dumont,9,0.0,6.66
+Norman Foster,16,0.0,5.64
+Anatole Litvak,33,0.0,5.42
+George Roy Hill,14,0.0,6.74
+Vincent Sherman,16,0.0,6.2
+Sam Pillsbury,8,0.0,5.16
+Francis Veber,12,0.0,6.4
+Peter Sasdy,9,0.0,5.48
+Takashi Shimizu,10,0.0,5.77
+Lewis Milestone,23,0.0,5.36
+Bobcat Goldthwait,11,0.0,6.79
+Zoltan Korda,10,0.0,6.67
+James Goldstone,9,0.0,3.98
+Alan Mak,9,0.0,6.89
+Luigi Zampa,7,0.0,3.8
+Raoul Walsh,43,0.0,5.87
+Charlie Chaplin,44,0.0,6.54
+Jérôme Salle,5,0.0,6.46
+Ryûhei Kitamura,10,0.0,6.24
+Nagisa Ōshima,16,0.0,6.21
+Jesús Franco,23,0.0,5.15
+Dino Risi,26,0.0,6.16
+Andy Warhol,9,0.0,6.09
+Paul Morrissey,12,0.0,5.82
+Ford Beebe,13,0.0,3.42
+Michele Lupo,15,0.0,4.67
+Hal Roach,8,0.0,7.05
+Fred C. Newmeyer,10,0.0,6.79
+Chang Cheh,24,0.0,6.23
+Demofilo Fidani,8,0.0,4.04
+Hal Ashby,11,0.0,6.14
+Gerald Thomas,25,0.0,6.17
+Paolo Taviani,11,0.0,6.31
+Vittorio Taviani,11,0.0,6.31
+Mark Sandrich,11,0.0,6.43
+Charles Frend,6,0.0,5.42
+Sergey Solovyov,5,0.0,5.8
+Eric Till,11,0.0,5.3
+Domenico Paolella,5,0.0,4.16
+Joseph Kane,6,0.0,3.53
+Sergiu Nicolaescu,12,0.0,7.83
+Henri Verneuil,14,0.0,6.61
+Robert Mulligan,19,0.0,6.1
+Chantal Akerman,11,0.0,6.11
+Richard Thorpe,42,0.0,5.36
+Jack Smight,11,0.0,5.56
+Louis Lumière,7,0.0,6.23
+Juzo Itami,7,0.0,6.33
+Bernard Rose,12,0.0,5.57
+Jay Chapman,20,0.0,5.59
+Eric Schaeffer,6,0.0,5.8
+Kinji Fukasaku,16,0.0,6.42
+Joseph Sargent,35,0.0,4.57
+Elia Kazan,19,0.0,6.72
+Eliseo Subiela,6,0.0,6.33
+Enzo G. Castellari,23,0.0,5.09
+Richard Shepard,7,0.0,6.27
+Edgar G. Ulmer,12,0.0,5.08
+Lee Frost,5,0.0,4.98
+Hideo Nakata,11,0.0,5.96
+Ted Post,10,0.0,6.32
+Zalman King,5,0.0,4.48
+John Fawcett,5,0.0,6.22
+Jeremy Kagan,9,0.0,5.97
+Jean Becker,9,0.0,6.28
+William A. Seiter,23,0.0,5.46
+Tim Whelan,10,0.0,5.33
+William Lustig,7,0.0,5.76
+Jeff Burr,10,0.0,5.28
+Don Taylor,9,0.0,5.81
+Carol Reed,17,0.0,6.35
+Eran Riklis,5,0.0,6.74
+Ted Demme,9,0.0,6.89
+Peter Godfrey,11,0.0,5.37
+Dan Ireland,6,0.0,5.55
+Susan Seidelman,9,0.0,4.27
+Nick Zedd,8,0.0,6.25
+Jean-Luc Godard,50,0.0,6.75
+Reginald Le Borg,13,0.0,4.67
+Louis Malle,23,0.0,6.62
+Derek Jarman,10,0.0,6.76
+Jacques Becker,8,0.0,6.65
 Alfred Santell,5,0.0,4.66
-Ernst Hofbauer,5,0.0,5.4
+Anthony Harvey,6,0.0,6.47
+Vsevolod Pudovkin,5,0.0,6.36
+William Wyler,29,0.0,6.26
+Jonathan Demme,27,0.0,6.5
+John Ford,68,0.0,6.38
+Neri Parenti,13,0.0,5.82
+Paul Hoen,12,0.0,5.55
+Terence Davies,8,0.0,6.85
+Jack Arnold,14,0.0,6.22
+John Pilger,6,0.0,7.1
+Larry Cohen,14,0.0,5.37
+Budd Boetticher,19,0.0,5.82
+Masaki Kobayashi,18,0.0,5.89
+Franco Castellano,11,0.0,5.58
+Giuseppe Moccia,11,0.0,5.58
+Ronald F. Maxwell,7,0.0,6.13
+Giuseppe Vari,5,0.0,1.92
+Ralf Huettner,5,0.0,6.06
+Lloyd Bacon,31,0.0,5.65
+Irwin Winkler,7,0.0,5.94
+Terry Ingram,9,0.0,4.03
+Werner Herzog,55,0.0,6.81
+Tonino Ricci,5,0.0,1.6
+Tran Anh Hung,5,0.0,6.58
+Emir Kusturica,12,0.0,6.81
+Hans Petter Moland,7,0.0,6.47
+Michael Drumm,5,0.0,4.88
+Victor Cook,6,0.0,6.27
+James Ivory,26,0.0,5.58
+Benedek Fliegauf,5,0.0,4.04
+Gillies MacKinnon,9,0.0,5.96
+Craig Pryce,5,0.0,5.64
+Bill L. Norton,6,0.0,5.08
+Małgorzata Szumowska,5,0.0,5.5
+Asghar Farhadi,6,0.0,7.43
+Arthur Penn,15,0.0,6.09
+John Schlesinger,20,0.0,5.96
+Duccio Tessari,13,0.0,5.07
+Sanjay Leela Bhansali,8,0.0,7.1
+Caroline Link,5,0.0,6.64
+Rajkumar Santoshi,10,0.0,6.4
+Simon Wincer,17,0.0,5.57
+Scott L. Montoya,8,0.0,3.56
+Nick Hurran,5,0.0,5.98
+Edwin S. Porter,9,0.0,5.98
+Andrzej Wajda,19,0.0,6.74
+Dibakar Banerjee,6,0.0,6.68
+Edward Buzzell,14,0.0,3.84
+David Hand,15,0.0,6.53
+Stephen Kijak,5,0.0,6.68
+Aleksey German,6,0.0,6.67
+Yoshihiro Nakamura,6,0.0,6.72
+Sanjay Gupta,5,0.0,5.88
+Sean McNamara,19,0.0,4.97
+Norman Z. McLeod,21,0.0,5.85
+Hong Sang-soo,16,0.0,7.21
+Ted Nicolaou,10,0.0,5.09
+Rex Ingram,5,0.0,6.38
+Christy Cabanne,6,0.0,4.05
+Fred Niblo,7,0.0,6.51
+Ron Oliver,16,0.0,5.36
+Stephen Frears,28,0.0,6.16
+Steve James,9,0.0,5.87
+Robert Siodmak,16,0.0,6.39
+Walerian Borowczyk,7,0.0,6.21
+Russell Rouse,7,0.0,5.53
+Frank Pierson,7,0.0,5.76
+Pietro Germi,6,0.0,6.65
+Krzysztof Kieślowski,13,0.0,7.32
+Terry Miles,6,0.0,5.58
+Don Michael Paul,10,0.0,5.13
+Joseph H. Lewis,14,0.0,5.74
+Anthony DiBlasi,6,0.0,5.08
+Benjamin Christensen,5,0.0,5.3
+Benny Chan,13,0.0,6.32
+Kenneth Anger,10,0.0,6.9
+Satyajit Ray,24,0.0,7.32
+Andy Wolk,5,0.0,5.94
+Fatih Akin,11,0.0,6.63
+Michael Pressman,8,0.0,5.97
+James Keach,6,0.0,5.03
+Fred Olen Ray,18,0.0,3.92
+Richard A. Colla,6,0.0,5.1
+Shyam Ramsay,8,0.0,1.85
+Tulsi Ramsay,7,0.0,2.11
+Mitchell Leisen,18,0.0,6.16
+Julien Duvivier,30,0.0,4.68
+Ernie Barbarash,12,0.0,5.2
+James Frawley,6,0.0,5.38
+James Toback,9,0.0,5.34
+Whit Stillman,5,0.0,6.48
+Nick Love,6,0.0,5.88
+Károly Makk,6,0.0,4.42
+Heidi Ewing,6,0.0,7.0
+Rachel Grady,6,0.0,7.0
+Morgan Spurlock,7,0.0,6.49
+Alex Gibney,20,0.0,6.92
+David Mamet,11,0.0,6.36
+Adam Curtis,7,0.0,7.97
+Sam Newfield,8,0.0,3.29
+Jay Karas,20,0.0,5.71
+Michael Schaack,5,0.0,4.96
+Rudolph Maté,16,0.0,5.78
+Alan Smithee,7,0.0,4.09
+Shinji Higuchi,6,0.0,5.3
+Frank Lloyd,10,0.0,5.04
+John Frankenheimer,33,0.0,5.71
+Frank Tuttle,9,0.0,4.34
+Elem Klimov,6,0.0,6.82
+Dolph Lundgren,5,0.0,5.18
+Alex van Warmerdam,9,0.0,6.51
+Takashi Miike,37,0.0,6.52
+Mark Jean,6,0.0,5.78
+Neill Fearnley,9,0.0,4.93
+Carlos Saura,21,0.0,5.88
+Paul Schrader,19,0.0,5.64
+Chuck Vincent,7,0.0,2.89
+Ole Bornedal,8,0.0,6.14
+Pierre Étaix,5,0.0,6.12
+Savage Steve Holland,12,0.0,4.86
+Mario Bava,27,0.0,5.83
+John Badham,19,0.0,5.99
+David Swift,6,0.0,5.88
+Mohsen Makhmalbaf,8,0.0,6.56
+Leslie H. Martinson,6,0.0,6.47
+Sukumar,5,0.0,6.26
+John Woo,24,0.0,6.45
+Frank Launder,7,0.0,6.21
+Erle C. Kenton,6,0.0,6.77
+Jonathan Kaplan,14,0.0,5.52
+Alain Resnais,23,0.0,6.74
+Mahesh Manjrekar,8,0.0,7.12
+Mia Hansen-Løve,5,0.0,6.34
+Gordon Chan,14,0.0,5.14
+Juan Piquer Simón,6,0.0,4.32
+Lee Friedlander,5,0.0,5.62
+Julio Médem,9,0.0,6.29
+Bill Corcoran,9,0.0,4.42
+Isaac Florentine,9,0.0,5.49
+Keith Truesdell,6,0.0,5.83
+Kon Ichikawa,9,0.0,7.09
+Koreyoshi Kurahara,7,0.0,6.67
+Harry Lachman,9,0.0,6.07
+Mihalis Kakogiannis,8,0.0,5.12
+Terence Young,18,0.0,5.55
+Alfred Hitchcock,53,0.0,6.64
+George Sherman,8,0.0,3.84
+Wim Wenders,32,0.0,6.4
+David Lynch,29,0.0,7.13
+Walter Salles,11,0.0,5.37
+Wong Kar-wai,14,0.0,6.95
+Ken Loach,27,0.0,6.54
+Claude Lelouch,19,0.0,6.18
+Bille August,15,0.0,6.53
+Youssef Chahine,10,0.0,6.47
+Amos Gitai,9,0.0,5.61
+Chen Kaige,13,0.0,6.7
+Olivier Assayas,14,0.0,6.4
+Atom Egoyan,16,0.0,6.19
+Andrei Konchalovsky,19,0.0,5.82
+Nanni Moretti,10,0.0,6.69
+Tsai Ming-liang,13,0.0,7.04
+Manoel de Oliveira,15,0.0,6.53
+George Sluizer,5,0.0,5.94
+Marco Ferreri,21,0.0,6.33
+David M. Rosenthal,5,0.0,4.54
+Troy Miller,12,0.0,6.62
+Robert Benton,11,0.0,6.28
+Orson Welles,20,0.0,6.38
+Alexander Korda,10,0.0,6.06
+Aleksandr Rou,6,0.0,6.12
+Jeannot Szwarc,8,0.0,5.49
+Jon Cassar,5,0.0,5.92
+Robert Lieberman,12,0.0,5.96
+John Brahm,12,0.0,4.31
+Lee Chang-dong,5,0.0,7.1
+Sam Firstenberg,10,0.0,4.6
+Pavel Lungin,6,0.0,6.02
+Josef Rusnak,5,0.0,5.16
+Rolf de Heer,10,0.0,6.07
+Alfred L. Werker,7,0.0,5.73
+Leo McCarey,19,0.0,5.48
+Roger Christian,8,0.0,5.25
+Cy Endfield,10,0.0,6.12
+Billy Corben,7,0.0,5.84
+Vincenzo Natali,8,0.0,6.16
+Hiroshi Inagaki,7,0.0,7.21
+Agnieszka Holland,14,0.0,6.72
+Goran Paskaljević,5,0.0,3.78
+Robert Greenwald,10,0.0,5.84
+Richard Gabai,10,0.0,5.04
+John Mackenzie,7,0.0,5.33
+Charles Sturridge,8,0.0,6.47
+Cirio H. Santiago,14,0.0,4.1
+André De Toth,13,0.0,5.26
+Fred Schepisi,17,0.0,6.24
+Gil Junger,9,0.0,5.54
+Laurent Tirard,6,0.0,5.83
+Gabriele Salvatores,12,0.0,6.74
+Sheldon Larry,5,0.0,4.28
+William Keighley,24,0.0,5.66
+Michael Winterbottom,25,0.0,5.97
+Yasuzô Masumura,9,0.0,6.09
+Sam Wood,24,0.0,5.05
+Robert Fuest,6,0.0,6.28
+Neill Blomkamp,9,0.0,6.93
+Philip Haas,6,0.0,5.97
+Stanley Kramer,13,0.0,6.69
+Don Siegel,27,0.0,5.96
+Robert Rossen,8,0.0,6.26
+Arturo Ripstein,9,0.0,6.04
+Sebastian Gutierrez,7,0.0,5.2
+Douglas Barr,5,0.0,5.12
+Delbert Mann,20,0.0,5.76
+Volker Schlöndorff,22,0.0,6.19
+Alan Clarke,8,0.0,3.3
+Mikael Salomon,11,0.0,5.26
+Kenji Misumi,15,0.0,6.15
+Kornél Mundruczó,5,0.0,5.02
+Olivier Ducastel,5,0.0,5.64
+Jacques Martineau,5,0.0,5.64
+Albert Dupontel,5,0.0,6.26
+Robert Enrico,7,0.0,6.17
+José Luis Guerin,5,0.0,7.4
+Rafal Zielinski,8,0.0,4.28
+George McCowan,7,0.0,4.37
+David Hugh Jones,5,0.0,6.32
+Luciano Salce,12,0.0,5.04
+Doug Pray,5,0.0,7.46
+Abel Gance,5,0.0,5.76
+Geoff Murphy,9,0.0,5.72
+Michael Haneke,13,0.0,6.92
+Frederick Wiseman,23,0.0,5.86
+Hiroshi Shimizu,6,0.0,5.73
+Penelope Spheeris,18,0.0,4.92
+Miklós Jancsó,14,0.0,6.38
+Terence Fisher,26,0.0,6.1
+Walter Lang,24,0.0,5.31
+William Klein,6,0.0,4.58
+Kari Skogland,10,0.0,3.98
+Sydney Pollack,21,0.0,6.45
+Craig R. Baxley,11,0.0,5.47
+Ivan Passer,8,0.0,5.84
+Stanislav Govorukhin,5,0.0,6.56
+Bruno Corbucci,12,0.0,6.06
+David Anspaugh,6,0.0,5.88
+Carl Theodor Dreyer,9,0.0,7.28
+Pupi Avati,11,0.0,5.36
+Keith Gordon,5,0.0,6.46
+Margarethe von Trotta,7,0.0,6.3
+Tommy Chong,5,0.0,5.72
+Irvin Kershner,12,0.0,6.05
+George Pal,5,0.0,6.4
+Eduardo Sánchez,7,0.0,5.37
+Beeban Kidron,5,0.0,6.1
+John G. Blystone,5,0.0,5.52
+Jim Wynorski,24,0.0,4.27
+Larry Clark,9,0.0,5.93
+Mike Hodges,10,0.0,6.1
+Patrice Chéreau,5,0.0,5.94
+Krzysztof Zanussi,10,0.0,4.56
+Pasquale Festa Campanile,7,0.0,4.89
+Norman McLaren,20,0.0,5.33
+Éric Rohmer,28,0.0,6.51
+J.S. Cardone,8,0.0,5.21
+Josef von Sternberg,19,0.0,6.39
+Patrick Lussier,7,0.0,5.01
+Ben Sombogaart,5,0.0,7.12
+Ryan Polito,21,0.0,4.91
+Richard Rush,7,0.0,5.94
+Danièle Thompson,6,0.0,5.77
+William Malone,5,0.0,4.64
+Sam Dunn,7,0.0,6.64
+Scot McFadyen,6,0.0,6.48
+Indra Kumar,6,0.0,5.57
+Rod Hardy,7,0.0,4.3
+Liz Garbus,10,0.0,5.58
+George Mendeluk,6,0.0,3.35
+Lonny Price,5,0.0,5.12
+Paul Wendkos,15,0.0,4.22
+Hubert Cornfield,5,0.0,6.1
+Douglas Hickox,9,0.0,5.93
+Dante Lam,11,0.0,6.09
+Robert Wise,37,0.0,6.16
+Federico Fellini,23,0.0,6.9
+Roger Vadim,12,0.0,5.77
+James Kent,5,0.0,5.48
+Andrew Bujalski,5,0.0,6.26
+Joseph Barbera,9,0.0,6.56
+William Hanna,9,0.0,6.56
+Catherine Cyran,6,0.0,5.55
+Srđan Dragojević,6,0.0,7.22
+Dario Argento,18,0.0,5.95
+Joseph M. Newman,8,0.0,4.89
+Randal Kleiser,13,0.0,5.63
+Lamont Johnson,13,0.0,5.11
+Maurice Tourneur,5,0.0,5.98
+Manny Rodriguez,11,0.0,5.85
+Katsuhito Ishii,5,0.0,6.1
+Peter Medak,12,0.0,5.24
+Sidney Poitier,8,0.0,6.1
+John Farrow,20,0.0,4.78
+Mitchell Altieri,6,0.0,4.27
+Antonio Margheriti,24,0.0,4.46
+Andrey Zvyagintsev,5,0.0,7.26
+Peter Collinson,10,0.0,6.56
+Roberto Benigni,6,0.0,6.93
+Milan Luthria,6,0.0,5.1
+Michael Powell,23,0.0,6.32
+Emeric Pressburger,12,0.0,6.85
+Stuart Rosenberg,13,0.0,6.32
+Arto Halonen,6,0.0,5.92
+Luigi Comencini,16,0.0,5.87
+Hiroshi Teshigahara,7,0.0,7.19
+Arnaud Desplechin,8,0.0,6.25
+Dome Karukoski,7,0.0,6.79
+Jack Sholder,10,0.0,5.47
+Burt Kennedy,15,0.0,5.47
+Dick Maas,11,0.0,5.6
+Mike Nichols,21,0.0,6.3
+Ere Kokkonen,9,0.0,5.58
+Franklin J. Schaffner,13,0.0,6.62
+S. Sylvan Simon,12,0.0,4.5
+Philippe Falardeau,7,0.0,6.24
+Marty Callner,15,0.0,6.89
+Barbara Kopple,9,0.0,6.37
+William Beaudine,32,0.0,4.52
+Tibor Takács,12,0.0,4.12
+Victor Saville,11,0.0,6.14
+Lewis Seiler,14,0.0,4.71
+Sally Potter,6,0.0,5.92
+Marguerite Duras,5,0.0,5.9
+Peter Bogdanovich,20,0.0,6.19
+João Pedro Rodrigues,5,0.0,6.28
+Valentin Vaala,5,0.0,1.6
+Kaneto Shindô,7,0.0,6.44
+Gregory Nava,5,0.0,6.66
+Jean Rollin,13,0.0,5.28
+Barbet Schroeder,14,0.0,6.29
+Vittorio De Sica,25,0.0,6.43
+Mario Monicelli,28,0.0,5.83
+Lech Majewski,5,0.0,6.34
+Abel Ferrara,22,0.0,5.87
+Steno,13,0.0,6.58
+Lewis Teague,12,0.0,4.79
+Shane Meadows,8,0.0,6.6
+Bradley Walsh,5,0.0,4.0
+Dave Fleischer,10,0.0,6.61
+Nobuhiko Ôbayashi,7,0.0,5.14
+William Lau,13,0.0,6.52
+Sam Liu,10,0.0,6.76
+Dusan Makavejev,10,0.0,5.77
+Leigh Scott,6,0.0,3.22
+Chor Yuen,6,0.0,5.67
+Shôhei Imamura,16,0.0,6.79
+Lee Joon-ik,5,0.0,6.64
+Vincent McEveety,14,0.0,5.71
+Errol Morris,11,0.0,7.03
+Joel Soisson,5,0.0,4.26
+Pang Ho-cheung,6,0.0,5.02
+Curtis Bernhardt,15,0.0,5.16
+Melvin Frank,14,0.0,5.86
+Giorgio Ferroni,8,0.0,5.67
+John Cromwell,20,0.0,5.4
+Edward Burns,11,0.0,5.66
+Eugenio Martín,5,0.0,5.7
+Kang Woo-Suk,5,0.0,7.08
+John Alan Schwartz,7,0.0,2.37
+Mike Thurmeier,6,0.0,6.67
+Elliott Nugent,13,0.0,4.02
+Andrew Lau,12,0.0,6.01
+Fred F. Sears,14,0.0,3.84
+Roy Ward Baker,22,0.0,6.3
+Ken Burns,12,0.0,5.82
+George Fitzmaurice,10,0.0,5.11
+Mika Kaurismäki,19,0.0,5.91
+Noboru Iguchi,7,0.0,5.21
+Robert Hamer,5,0.0,7.16
+Claude Chabrol,37,0.0,6.01
+Edward Dmytryk,31,0.0,5.66
+Gene Saks,5,0.0,6.74
+Wojciech Smarzowski,6,0.0,6.9
+H. Bruce Humberstone,17,0.0,4.39
+Giuliano Montaldo,7,0.0,6.51
+Gregory Ratoff,9,0.0,5.1
+Larry Charles,6,0.0,5.95
+William Cameron Menzies,7,0.0,5.59
+Malcolm St. Clair,7,0.0,5.59
+Griff Furst,10,0.0,4.13
+Edward L. Cahn,9,0.0,4.09
+Sam Weisman,6,0.0,5.43
+Harold S. Bucquet,14,0.0,4.64
+Alex Zamm,12,0.0,5.32
+Vicente Aranda,8,0.0,5.64
+Michel Gondry,13,0.0,6.55
+Arthur Allan Seidelman,7,0.0,4.87
+Roy Del Ruth,33,0.0,4.92
+Igor Maslennikov,6,0.0,6.87
+Chris Hegedus,12,0.0,6.17
+D.A. Pennebaker,16,0.0,6.38
+George Sidney,22,0.0,5.82
+Teruo Ishii,6,0.0,4.97
+Hal Hartley,13,0.0,6.43
+Jerzy Hoffman,5,0.0,6.18
+Hector Babenco,6,0.0,7.0
+Eldar Ryazanov,17,0.0,5.81
+Joe Menendez,5,0.0,5.44
+Danis Tanović,5,0.0,6.68
+Eric Lartigau,5,0.0,6.36
+Andrucha Waddington,5,0.0,5.56
+Priyadarshan,15,0.0,5.9
+Lee H. Katzin,8,0.0,4.59
+Til Schweiger,9,0.0,6.09
+Matthew Barney,5,0.0,5.92
+Bruce LaBruce,5,0.0,6.12
+James Bridges,8,0.0,4.19
+Andrzej Żuławski,9,0.0,7.12
+Byron Haskin,13,0.0,5.81
+Carlos Sorin,5,0.0,6.02
+John Irvin,21,0.0,5.38
+Enzo Barboni,10,0.0,5.3
+James Glickenhaus,6,0.0,5.72
+Joseph Losey,27,0.0,5.7
+Greydon Clark,11,0.0,4.36
+Peter Hewitt,12,0.0,5.53
+Timothy Bond,8,0.0,5.15
+Jem Cohen,7,0.0,3.1
+Robert Stone,5,0.0,5.7
+Zdravko Šotra,5,0.0,4.84
+Irwin Allen,9,0.0,5.78
+Aleksandr Ptushko,6,0.0,5.1
+Ulf Malmros,7,0.0,6.24
+David Miller,13,0.0,5.35
+Peter Yates,20,0.0,6.35
+Gregory La Cava,6,0.0,4.38
+Ernest R. Dickerson,11,0.0,5.23
+Isabel Coixet,9,0.0,5.84
+Gurinder Chadha,9,0.0,5.96
+Fred Wolf,6,0.0,5.13
+Erik Van Looy,6,0.0,6.3
+Norman Tokar,12,0.0,6.28
+Michael Winner,14,0.0,6.09
+John Huston,39,0.0,6.37
+Robert Iscove,10,0.0,4.9
+Lucio Fulci,31,0.0,5.7
+Çağan Irmak,6,0.0,7.43
+Matthew Leutwyler,5,0.0,5.12
+Rebecca Miller,5,0.0,5.76
+Giuseppe Tornatore,10,0.0,7.21
+Roman Kachanov,6,0.0,6.5
+Melanie Mayron,5,0.0,5.26
+Bertrand Bonello,5,0.0,5.98
+Prakash Jha,6,0.0,5.45
+Charles Jarrott,11,0.0,4.05
+John Schultz,7,0.0,5.8
+Law Wing-cheong,5,0.0,5.54
+John McNaughton,9,0.0,5.1
+Bruce McDonald,9,0.0,5.61
+Norman Panama,10,0.0,4.59
+Adam Mason,5,0.0,4.62
+Steven Cantor,5,0.0,5.82
+Don Sharp,14,0.0,5.26
+Marcus Raboy,14,0.0,6.46
+Mel Smith,5,0.0,5.96
+Jacques Tourneur,21,0.0,5.67
+Georgiy Daneliya,10,0.0,5.98
+Gary Yates,6,0.0,5.47
+Erik Skjoldbjærg,5,0.0,5.4
+Tom Clegg,16,0.0,6.44
+Dennis Hopper,7,0.0,6.21
+Gus Trikonis,6,0.0,3.63
+Věra Chytilová,5,0.0,6.4
+John Kent Harrison,7,0.0,5.07
+Kenji Kamiyama,5,0.0,7.02
+Shari Springer Berman,9,0.0,5.53
+Robert Pulcini,9,0.0,5.53
+Mario Van Peebles,11,0.0,5.71
+Lamberto Bava,10,0.0,5.14
+D.W. Griffith,29,0.0,5.61
+Jeff Kanew,8,0.0,4.55
+Archie Mayo,18,0.0,4.76
+Michael Crichton,6,0.0,5.87
+Roscoe 'Fatty' Arbuckle,9,0.0,5.44
+Ida Lupino,8,0.0,6.55
+Samira Makhmalbaf,5,0.0,6.56
+Kevin O'Neill,5,0.0,4.22
+Samuel Fuller,21,0.0,5.9
+Romolo Guerrieri,8,0.0,4.51
+Emilio Fernández,5,0.0,6.34
+Ettore Scola,19,0.0,6.94
+H. C. Potter,9,0.0,6.44
+Richard Loncraine,13,0.0,5.25
+Avi Nesher,9,0.0,5.73
+Johannes Roberts,5,0.0,4.5
+Mark A.Z. Dippé,8,0.0,5.2
+Jim O'Connolly,5,0.0,7.48
+Ray Enright,19,0.0,4.31
+Leos Carax,7,0.0,7.0
+David Carson,6,0.0,5.5
+Michael Schultz,12,0.0,4.9
+Ruggero Deodato,8,0.0,5.96
+Christopher Cain,11,0.0,5.06
+Jack Haley Jr.,5,0.0,3.56
+Blair Treu,5,0.0,5.92
+Ben Verbong,5,0.0,5.56
+John Berry,6,0.0,5.93
+Jon Avnet,7,0.0,6.23
+Ira Sachs,5,0.0,6.12
+Riccardo Freda,12,0.0,5.19
+Olle Hellbom,8,0.0,6.24
+Majid Majidi,7,0.0,7.07
+Subhash Ghai,7,0.0,6.49
+Curtis Harrington,9,0.0,5.38
+Eric Red,5,0.0,5.54
+Stuart Gillard,15,0.0,4.87
+Kevin Brownlow,7,0.0,4.86
+Erich von Stroheim,8,0.0,6.38
+Salvatore Samperi,5,0.0,5.96
+Yorgos Lanthimos,5,0.0,6.3
+George Seaton,11,0.0,6.29
+Robert Markowitz,8,0.0,4.81
+Clyde Geronimi,13,0.0,6.52
+Jack Kinney,14,0.0,6.24
+Jacques Demy,12,0.0,6.69
+Vishal Bhardwaj,8,0.0,6.62
+Bernardo Bertolucci,16,0.0,6.85
+Amy Berg,6,0.0,7.1
+Jessica Yu,6,0.0,5.82
+Peter Masterson,6,0.0,4.62
+Helmut Käutner,5,0.0,6.86
+Roy Boulting,10,0.0,6.9
+Lina Wertmüller,10,0.0,4.89
+Lou Ye,6,0.0,7.15
+Colin Nutley,5,0.0,4.6
+Russ Meyer,15,0.0,6.21
+Robert Vince,15,0.0,5.06
+Ermanno Olmi,9,0.0,5.92
+Jerzy Skolimowski,15,0.0,5.75
+Erik Balling,5,0.0,7.18
+Herschell Gordon Lewis,9,0.0,4.86
+Chris Marker,20,0.0,6.83
+Jay Duplass,6,0.0,6.0
+Mark Duplass,5,0.0,5.8
+John Hough,16,0.0,5.22
+Brett Morgen,5,0.0,6.76
+José Ferrer,5,0.0,5.68
+Harmony Korine,10,0.0,6.03
+Mark Herman,6,0.0,6.52
+Percy Adlon,6,0.0,6.32
+Douglas Jackson,5,0.0,3.22
+Denys Arcand,6,0.0,6.1
+Ulrich Seidl,10,0.0,6.6
+Philippe de Broca,11,0.0,6.32
+David Schmoeller,5,0.0,5.52
+Petter Næss,5,0.0,5.38
+Fred M. Wilcox,6,0.0,6.13
+Dziga Vertov,9,0.0,6.99
+William Kaufman,7,0.0,5.46
+Arthur Lubin,14,0.0,6.09
+William Fruet,6,0.0,5.57
+Michael Almereyda,8,0.0,3.96
+Liu Chia-Liang,16,0.0,6.42
+Sooraj R. Barjatya,5,0.0,5.78
+Akiyuki Shinbo,7,0.0,7.79
+Ferzan Ozpetek,10,0.0,6.8
+Fenton Bailey,10,0.0,6.01
+Randy Barbato,10,0.0,6.01
+Ann Hui,5,0.0,6.42
+Alastair Fothergill,8,0.0,7.15
+Bertrand Blier,11,0.0,6.19
+Trey Parker,7,0.0,7.04
+Arthur Dreifuss,6,0.0,4.47
+Joey Figueroa,5,0.0,5.38
+Zak Knutson,6,0.0,5.77
+Sergei M. Eisenstein,8,0.0,6.76
+Charles Barton,10,0.0,5.57
+James Algar,11,0.0,5.81
+Giuliano Carnimeo,14,0.0,4.53
+Claude Autant-Lara,9,0.0,5.81
+Mauro Bolognini,14,0.0,4.73
+Spike Brandt,9,0.0,6.24
+Raymond De Felitta,5,0.0,6.1
+Harold Young,5,0.0,6.96
+Hideo Gosha,6,0.0,7.22
+Pat O'Connor,8,0.0,5.94
+François Ozon,19,0.0,6.48
+Ron Underwood,11,0.0,5.36
+Shinichiro Watanabe,6,0.0,7.0
+Thom Fitzgerald,6,0.0,4.65
+Daniel Mann,18,0.0,6.01
+Roland Joffé,12,0.0,5.85
+Paul Bogart,6,0.0,4.87
+Herbert Wise,6,0.0,5.72
+David M. Evans,8,0.0,4.95
+Irving Cummings,13,0.0,5.0
+Richard Wallace,11,0.0,4.55
+Friðrik Þór Friðriksson,8,0.0,5.14
+Louis Feuillade,7,0.0,6.41
+Ray Taylor,5,0.0,3.9
+Pen-Ek Ratanaruang,7,0.0,6.54
+Michael Damian,6,0.0,6.2
+Don Weis,6,0.0,5.05
+Edmund Goulding,17,0.0,6.2
+Boris Khlebnikov,5,0.0,5.98
+Lauren Montgomery,9,0.0,6.79
+Eric Bross,6,0.0,4.92
+Jacques Rivette,19,0.0,7.32
+Kevin Tenney,8,0.0,5.04
+Christophe Honoré,8,0.0,5.95
+Norman Jewison,24,0.0,6.12
+Alan Rafkin,5,0.0,6.14
+Cédric Klapisch,10,0.0,6.54
+John Gilling,7,0.0,5.76
+Franco Prosperi,9,0.0,4.91
+Kevin Hooks,9,0.0,4.4
+Tom Holland,6,0.0,5.92
+Juliusz Machulski,12,0.0,7.13
+Paul Andrew Williams,5,0.0,6.14
+Marleen Gorris,5,0.0,6.18
+Bill Plympton,9,0.0,6.7
+Michael Gordon,14,0.0,5.62
+Luigi Cozzi,8,0.0,5.1
+Corey Yuen Kwai,14,0.0,6.11
+Harry Beaumont,14,0.0,2.81
+Bradley Raymond,6,0.0,5.97
+Agnès Varda,12,0.0,6.88
+Peter Glenville,5,0.0,6.58
+Bahman Ghobadi,6,0.0,6.77
+Tony Richardson,16,0.0,6.19
+Peter Tscherkassky,6,0.0,7.2
+David Dhawan,11,0.0,4.75
+Christopher Ray,6,0.0,3.27
+Eric Rochant,6,0.0,6.28
+Ousmane Sembene,9,0.0,6.97
+Costa-Gavras,16,0.0,6.56
+Louis Morneau,6,0.0,4.95
+George Gallo,8,0.0,6.04
+Danny Lerner,7,0.0,3.49
+Kazuchika Kise,6,0.0,7.03
+George Marshall,30,0.0,5.32
+Claude Sautet,7,0.0,6.83
+John Herzfeld,7,0.0,5.23
+Jack Hill ,9,0.0,5.66
+Josh Stolberg,5,0.0,5.04
+Frank Henenlotter,6,0.0,5.63
+Lasse Åberg,6,0.0,5.0
+Bernard L. Kowalski,5,0.0,3.44
+Jørgen Leth,10,0.0,4.79
+Joe Berlinger,11,0.0,6.07
+Anders Nilsson,9,0.0,6.67
+Warren P. Sonoda,5,0.0,4.18
+Rakesh Roshan,7,0.0,6.34
+Roel Reiné,15,0.0,4.93
+Gary Sherman,6,0.0,5.57
+Martin Ritt,22,0.0,6.09
+Pete Walker,7,0.0,6.23
+Claire Denis,11,0.0,6.5
+Stanley Donen,22,0.0,6.04
+Gene Kelly,11,0.0,6.41
+Philip Dunne,7,0.0,5.44
+Irving Pichel,14,0.0,5.84
+Radley Metzger,6,0.0,4.4
+Jacques Tati,6,0.0,7.17
+Christian Duguay,15,0.0,5.89
+Bryan Forbes,10,0.0,6.41
+Shinya Tsukamoto,13,0.0,6.2
+John Duigan,11,0.0,5.88
+William Dear,13,0.0,5.35
+Sean S. Cunningham,6,0.0,5.22
+Jean-Pierre Melville,12,0.0,7.29
+Zhang Yang,6,0.0,7.08
+Mike Leigh,18,0.0,6.96
+Robert Parrish,13,0.0,6.21
+Chris Eyre,5,0.0,4.12
+Lucy Walker,7,0.0,7.23
+Mark Rappaport,6,0.0,3.9
+Leni Riefenstahl,6,0.0,6.43
+Guy Maddin,14,0.0,6.02
+Leslie Small,6,0.0,4.33
+Ali Khamrayev,7,0.0,3.07
+Alan Metter,5,0.0,5.6
+Alberto De Martino,14,0.0,2.76
+John S. Robertson,6,0.0,4.3
+João César Monteiro,14,0.0,5.83
+Oliver Parker,10,0.0,5.64
+Bent Hamer,6,0.0,6.0
+Fernando Trueba,8,0.0,6.29
+Mamoru Oshii,12,0.0,6.31
+Victor Salva,8,0.0,5.86
+Wong Jing,17,0.0,6.18
+Šarūnas Bartas,8,0.0,6.36
+Piers Haggard,6,0.0,5.68
+Leonid Gayday,13,0.0,7.07
+Anthony Hickox,11,0.0,4.95
+Fred Zinnemann,18,0.0,6.45
+Tim Blake Nelson,5,0.0,6.0
+Clive Donner,10,0.0,5.36
+Liv Ullmann,5,0.0,6.12
+Harald Reinl,6,0.0,7.18
+Steve Barron,11,0.0,5.99
+Emmanuel Mouret,6,0.0,5.72
+Adam Brooks,5,0.0,5.96
+Joris Ivens,6,0.0,6.92
+Michael Anderson,21,0.0,5.88
+Tsui Hark,22,0.0,6.16
+Mikhail Romm,5,0.0,6.82
+Edward Bernds,15,0.0,4.77
+Karel Reisz,8,0.0,6.29
+Cédric Kahn,5,0.0,6.04
+Jordan Brady,5,0.0,5.98
+Jean-Jacques Beineix,6,0.0,6.38
+Robert Hartford-Davis,5,0.0,4.86
+Bill Melendez,8,0.0,6.59
+Scott Ziehl,6,0.0,5.1
+Ching Siu-Tung,11,0.0,6.13
 Rob Epstein,9,0.0,6.63
 Jeffrey Friedman,7,0.0,6.59
-Tom Holland,6,0.0,5.92
-Irwin Allen,9,0.0,5.78
-Jerry Ciccoritti,6,0.0,5.9
-Kaneto Shindô,7,0.0,6.44
-Victor Cook,6,0.0,6.27
-Tad Stones,5,0.0,5.96
-Erik Skjoldbjærg,5,0.0,5.4
-Hannes Holm,6,0.0,5.42
-Tony Giglio,6,0.0,5.25
-George Fitzmaurice,10,0.0,5.11
-Tom Gries,8,0.0,6.19
-Larry Elikann,5,0.0,4.5
-Gregor Jordan,5,0.0,6.02
-Herman Yau,9,0.0,5.34
-Todd Rohal,5,0.0,4.96
-Louis Feuillade,7,0.0,6.41
-Chen Chi-Hwa,5,0.0,6.1
-Thom Andersen,5,0.0,6.02
-Alex van Warmerdam,9,0.0,6.51
-Barry Shear,5,0.0,6.08
-Howard W. Koch,7,0.0,4.64
-Emeric Pressburger,12,0.0,6.85
-Olle Hellbom,8,0.0,6.24
-Anne Wheeler,5,0.0,5.9
-Sanjay Gupta,5,0.0,5.88
+Taylor Hackford,14,0.0,6.49
+Maya Deren,6,0.0,6.55
+Noah Buschel,5,0.0,6.1
+Hugo Fregonese,6,0.0,4.97
+William K. Howard,9,0.0,4.68
+Osamu Dezaki,6,0.0,4.77
+Stewart Raffill,12,0.0,4.86
+JP Siili,5,0.0,6.26
+Yves Simoneau,11,0.0,4.8
+William Girdler,8,0.0,3.89
+Fernando León de Aranoa,5,0.0,6.82
+Michael Keusch,5,0.0,4.54
+Adam Rifkin,8,0.0,5.58
 Adam Green,7,0.0,5.97
-Lonny Price,5,0.0,5.12
-Garson Kanin,7,0.0,5.31
-Bruce McDonald,9,0.0,5.61
-Kihachi Okamoto,6,0.0,7.42
+John Guillermin,19,0.0,6.35
+Albert Band,7,0.0,5.11
+Mick Garris,7,0.0,5.29
+David DeCoteau,16,0.0,4.22
+Bernard McEveety,5,0.0,6.0
+Robert Conway,5,0.0,4.04
+Patrice Leconte,19,0.0,6.32
+Mike Clattenburg,6,0.0,6.7
+Min Kyu-dong,5,0.0,5.92
+Quentin Dupieux,5,0.0,5.94
+Ian Barry,5,0.0,4.48
+Philippe Garrel,12,0.0,6.04
+Emilio Estevez,6,0.0,6.18
+Thom Andersen,5,0.0,6.02
 Tod Browning,14,0.0,6.01
-Dusan Makavejev,10,0.0,5.77
-Sam Weisman,6,0.0,5.43
-Steve James,9,0.0,5.87
-Fausto Brizzi,5,0.0,5.68
-John Gilling,7,0.0,5.76
-Giuseppe Tornatore,10,0.0,7.21
-Gordon Parks,6,0.0,5.47
-Norman Panama,10,0.0,4.59
-Henri-Georges Clouzot,8,0.0,7.55
-Herbert Wise,6,0.0,5.72
-Andrew Bujalski,5,0.0,6.26
-Alberto Rodríguez,6,0.0,6.28
-Lee Friedlander,5,0.0,5.62
-Bitto Albertini,5,0.0,1.44
-Pete Walker,7,0.0,6.23
-Amos Poe,5,0.0,3.38
-James Glickenhaus,6,0.0,5.72
-Taika Waititi,7,0.0,6.39
-Lawrence Kasdan,11,0.0,6.31
+Kevin Fair,6,0.0,6.37
+John Milius,9,0.0,5.43
+Jan Švankmajer,13,0.0,7.09
+Ben Sharpsteen,7,0.0,6.81
+Wilfred Jackson,15,0.0,6.89
+Sergei Parajanov,5,0.0,6.58
+Jeffrey Schwarz,5,0.0,6.12
+Johnnie To,30,0.0,6.23
+Wai Ka-Fai,9,0.0,6.27
+Jiří Menzel,8,0.0,6.89
+Jerry Jameson,11,0.0,3.35
+Albert Lewin,5,0.0,5.4
+Guillaume Nicloux,5,0.0,5.6
+Emilis Velyvis,5,0.0,6.12
 Lee Sholem,8,0.0,4.5
-Salvatore Samperi,5,0.0,5.96
+Danny Pang,10,0.0,5.52
+Oxide Pang Chun,12,0.0,5.49
+Gordon Hessler,11,0.0,5.27
+Howard Hawks,36,0.0,5.94
+Claudio Fäh,5,0.0,4.76
+Yves Robert,10,0.0,6.68
+Steve Miner,14,0.0,5.58
+Jan Kounen,5,0.0,5.96
+Neil Marshall,5,0.0,6.16
+Tinto Brass,13,0.0,4.6
+Neal Israel,7,0.0,3.86
+Spike Jonze,14,0.0,5.86
+Marc Allégret,5,0.0,3.12
+Michael Hoffman,12,0.0,5.98
+Susanne Bier,10,0.0,6.25
+Bruno Barreto,9,0.0,5.97
+Aku Louhimies,7,0.0,6.11
+Paul Ziller,15,0.0,3.59
+Jack Starrett,5,0.0,4.48
+Ronny Yu,9,0.0,6.16
+Aleksandr Petrov,6,0.0,6.12
+Walt Disney,6,0.0,6.83
+Kate Davis,5,0.0,7.04
+Elio Petri,8,0.0,6.44
+Segundo de Chomón,8,0.0,5.75
+Richard T. Heffron,8,0.0,4.21
+Jerry Schatzberg,10,0.0,5.73
+Brian Gilbert,5,0.0,5.88
+Chen Chi-Hwa,5,0.0,6.1
+Stelvio Massi,14,0.0,2.78
+John R. Cherry III,10,0.0,4.29
+Jean-Paul Rappeneau,6,0.0,6.18
+Alain Corneau,8,0.0,6.92
+Bigas Luna,5,0.0,5.7
+Jaco Van Dormael,5,0.0,7.02
+Lucian Pintilie,7,0.0,6.43
+Ryoo Seung-wan,5,0.0,6.66
+Marco Bellocchio,11,0.0,6.41
+Christopher Guest,8,0.0,5.99
+Daisy von Scherler Mayer,7,0.0,4.67
+Darin Scott,5,0.0,4.54
+Brian Yuzna,7,0.0,5.46
+Steve Rash,14,0.0,5.69
+Charles Reisner,7,0.0,3.76
+G.W. Pabst,11,0.0,5.85
+Yakov Protazanov,5,0.0,4.8
+Jan Verheyen,6,0.0,5.33
+Rachid Bouchareb,6,0.0,6.33
+Gérard Oury,10,0.0,6.71
+Richard Wilson,5,0.0,6.46
+Jeffery Scott Lando,5,0.0,4.84
+Gilbert Cates,6,0.0,5.52
+Simon Fellows,5,0.0,5.06
+Declan O'Brien,6,0.0,4.22
+David Hare,5,0.0,6.54
+Murray Lerner,5,0.0,5.2
+John Murlowski,8,0.0,4.8
+Charles Burnett,5,0.0,6.46
+Phil Roman,8,0.0,6.16
+Mike Barker,6,0.0,5.95
+William Clemens,8,0.0,5.95
+Béla Tarr,12,0.0,6.87
+Curtis Crawford,6,0.0,4.8
+Richard Quine,16,0.0,5.93
+Jacques Audiard,7,0.0,6.76
+Alexandre Rockwell,5,0.0,5.6
+Aleksey Fedorchenko,5,0.0,6.1
+Robert Townsend,9,0.0,5.79
+Oscar Micheaux,5,0.0,2.36
+John Llewellyn Moxey,7,0.0,5.63
+Bong Joon-ho,7,0.0,7.1
+George W. Hill,6,0.0,3.68
+Paul Wheeler,6,0.0,7.22
+Yash Chopra,6,0.0,5.58
+Diane Kurys,7,0.0,5.44
+István Szabó,8,0.0,6.1
+Joe Swanberg,13,0.0,5.78
+Roger Corman,36,0.0,5.11
+John Stockwell,13,0.0,5.51
+Roger Spottiswoode,19,0.0,6.04
+George Albert Smith,5,0.0,5.76
+Daniel Myrick,5,0.0,5.7
+Sergey Loznitsa,12,0.0,5.38
+Sidney Lanfield,8,0.0,5.36
+Brian Trenchard-Smith,17,0.0,4.86
+Walter Ruttmann,5,0.0,7.0
+Jun Fukuda,6,0.0,5.9
+René Clair,16,0.0,5.91
+Felix E. Feist,7,0.0,5.56
+Carlo Verdone,12,0.0,6.42
+Robert M. Young,9,0.0,6.34
+Erik Gandini,5,0.0,6.22
+Jean Yarbrough,14,0.0,5.08
+John Gulager,5,0.0,4.84
+Stefan Ruzowitzky,6,0.0,6.28
+Philippe Mora,12,0.0,4.71
+Ho Meng-Hua,7,0.0,5.99
+Hal Walker,6,0.0,5.97
+Tage Danielsson,5,0.0,6.54
+René Laloux,8,0.0,7.7
+Colin Theys,5,0.0,4.4
+Taika Waititi,7,0.0,6.39
+David Jackson,7,0.0,3.84
+Nick Park,7,0.0,7.19
+Hrishikesh Mukherjee,5,0.0,5.86
+James H. White,15,0.0,4.47
+Dmitriy Kiselev,7,0.0,5.73
+Joshua Safdie,5,0.0,6.7
+Yojiro Takita,5,0.0,5.26
+Tom DiCillo,7,0.0,6.34
+Robert Mandel,8,0.0,6.01
+Mike Binder,7,0.0,6.21
+Jason Woliner,5,0.0,7.38
+Gabriele Muccino,8,0.0,6.36
+Louis C.K.,11,0.0,6.76
+Alfonso Brescia,9,0.0,2.89
+Carlo Lizzani,13,0.0,5.32
+Sharon Lockhart,5,0.0,4.0
+Christian Vincent,5,0.0,5.8
+Charles Grosvenor,10,0.0,5.87
+Anthony Page,5,0.0,6.4
+Sergio Grieco,10,0.0,1.84
+Sam Taylor,16,0.0,5.32
+Rodney Gibbons,8,0.0,4.1
+Brett Sullivan,7,0.0,6.74
+Christian Petzold,7,0.0,6.9
+Alexander Sokurov,19,0.0,6.06
+Dick Powell,5,0.0,5.3
+Jan Hřebejk,6,0.0,6.32
+Ate de Jong,5,0.0,5.3
+Lukas Moodysson,7,0.0,6.46
+Victor Schertzinger,6,0.0,3.97
+Robert Clouse,8,0.0,6.12
+Tony Gatlif,11,0.0,6.24
+Jan Troell,13,0.0,6.12
+Aisling Walsh,5,0.0,6.22
+Christoffer Boe,6,0.0,6.07
+K. S. Ravikumar,5,0.0,6.16
+Charles Band,21,0.0,4.25
+Maximilian Schell,5,0.0,6.54
+Boaz Davidson,10,0.0,5.37
+Basil Dearden,13,0.0,6.92
+Richard Boleslawski,9,0.0,5.4
+Joe Camp,5,0.0,5.7
+Ellory Elkayem,5,0.0,4.64
+Greg Barker,6,0.0,5.37
+Daisuke Nishio,7,0.0,6.36
+Harvey Frost,7,0.0,4.66
+Matti Kassila,9,0.0,5.22
+John Sayles,17,0.0,6.2
+Joseph Vilsmaier,6,0.0,5.6
+Nathan H. Juran,15,0.0,5.37
+Hirokazu Koreeda,12,0.0,7.12
+Pete Travis,5,0.0,6.22
+Jim Henson,7,0.0,5.64
+Damiano Damiani,16,0.0,4.91
+Don Hertzfeldt,6,0.0,8.07
+David Steinberg,5,0.0,6.44
+Steven C. Miller,8,0.0,5.08
+Don McBrearty,6,0.0,6.05
+Carl Schenkel,5,0.0,5.46
+George Archainbaud,5,0.0,2.88
+Jeffrey Lau,5,0.0,6.6
+Vladimir Bortko,7,0.0,4.97
+Beth McCarthy-Miller,6,0.0,5.25
+Charles Lamont,12,0.0,5.62
+Rob Williams,7,0.0,4.73
+Anurag Kashyap,11,0.0,6.59
+Richard Pearce,7,0.0,5.87
+Marcel Pagnol,9,0.0,6.71
+Keisuke Kinoshita,14,0.0,5.58
+Michelangelo Antonioni,18,0.0,6.81
+David Worth,7,0.0,4.74
+Franck Khalfoun,5,0.0,5.72
+Tokuzô Tanaka,6,0.0,5.67
+Mike Nawrocki,7,0.0,4.81
+David Lowell Rich,8,0.0,4.44
+Amos Poe,5,0.0,3.38
+Jerry Paris,8,0.0,4.79
+Lisandro Alonso,5,0.0,6.76
+Eugene Forde,7,0.0,5.7
+Jon Jones,5,0.0,5.92
+Naomi Kawase,10,0.0,5.86
+Bradford May,11,0.0,5.25
+Henri-Georges Clouzot,8,0.0,7.55
+Carlo Mazzacurati,5,0.0,6.68
+Phil Joanou,10,0.0,6.05
+Andrei Tarkovsky,11,0.0,7.14
+Edward Yang,6,0.0,7.88
+Graeme Campbell,5,0.0,4.4
+Guillaume Canet,5,0.0,6.38
+José Luis Cuerda,5,0.0,6.54
+Scott Hicks,10,0.0,5.67
+Marcelo Piñeyro,7,0.0,6.16
+Waris Hussein,6,0.0,4.4
+Kenny Ortega,10,0.0,6.25
+Daniel Petrie,16,0.0,5.39
+Jerry Lewis,11,0.0,5.33
+Gregor Jordan,5,0.0,6.02
+Daniel Lind Lagerlöf,7,0.0,4.43
+Alain Robbe-Grillet,5,0.0,6.5
+Yung Chang,5,0.0,5.26
+Mat Whitecross,6,0.0,7.03
+Gérard Pirès,5,0.0,5.86
+Michael Landon Jr.,9,0.0,6.34
+Larry Fessenden,5,0.0,5.24
+Yevgeni Bauer,5,0.0,5.94
+Lucas Belvaux,5,0.0,6.66
+Manny Coto,5,0.0,4.9
+Marc Levin,6,0.0,6.63
+Paul Weiland,6,0.0,5.57
+Ringo Lam,7,0.0,5.83
+Rachel Talalay,5,0.0,4.62
+Pan Nalin,5,0.0,6.38
+Kouji Morimoto,7,0.0,7.0
+Steve Oedekerk,5,0.0,6.1
+Louis King,8,0.0,3.6
+Ritwik Ghatak,5,0.0,6.24
+Ulu Grosbard,7,0.0,6.1
+Thomas Vinterberg,8,0.0,6.79
+Christian Zübert,5,0.0,6.22
+Jan Svěrák,6,0.0,7.3
 Michele Soavi,6,0.0,6.28
-Barbara Kopple,9,0.0,6.37
-Henry Jaglom,10,0.0,3.48
-Philip Saville,5,0.0,4.12
-Claudio Fragasso,6,0.0,4.32
+Ted V. Mikels,6,0.0,3.33
+Guy Ferland,5,0.0,5.38
+Peter Markle,10,0.0,5.61
+Don E. FauntLeRoy,7,0.0,3.97
+Banjong Pisanthanakun,6,0.0,6.35
+Adrián García Bogliano,5,0.0,5.72
+Tony Cervone,7,0.0,6.06
+Tomás Gutiérrez Alea,5,0.0,6.54
+Lewis Allen,12,0.0,4.84
+Darrell James Roodt,7,0.0,5.76
+Víctor Erice,5,0.0,6.64
+Nick Lyon,7,0.0,4.07
+Im Sang-soo,5,0.0,5.82
+Andrew Bergman,6,0.0,5.32
+Nadia Tass,9,0.0,5.7
+Gérard Krawczyk,5,0.0,5.64
+Gerd Oswald,8,0.0,5.19
+Hans-Christian Schmid,5,0.0,6.78
+Kihachi Okamoto,6,0.0,7.42
+Georges Lautner,10,0.0,6.69
+Ramin Bahrani,6,0.0,6.73
+Alan Crosland,6,0.0,4.2
+Robert Ellis Miller,7,0.0,6.4
+Bruce Sinofsky,5,0.0,7.36
+Alexander Mackendrick,7,0.0,6.73
+Brian Gibson,5,0.0,6.46
+Michael Oblowitz,6,0.0,3.55
+Fisher Stevens,6,0.0,4.82
+Chris Smith,5,0.0,7.14
+Jean Cocteau,5,0.0,7.46
+Matt Cimber,5,0.0,5.34
+Steven Feinartz,6,0.0,2.77
+Don Chaffey,10,0.0,4.43
+James Benning,11,0.0,6.58
+James Huth,5,0.0,5.0
+Thom Eberhardt,7,0.0,6.29
+SABU,10,0.0,6.47
+Melville Shavelson,9,0.0,6.47
+James Hawes,6,0.0,5.58
+Steve Carver,9,0.0,5.34
+Joe D'Amato,16,0.0,4.14
+Ava DuVernay,5,0.0,7.28
+Maurizio Lucidi,5,0.0,4.96
+Peter R. Hunt,7,0.0,4.53
+Gary Nelson,6,0.0,5.17
+Marcus H. Rosenmüller,7,0.0,6.39
+Albert Brooks,7,0.0,6.33
+Friz Freleng,6,0.0,6.67
+Ernst Hofbauer,5,0.0,5.4
+Philip Leacock,7,0.0,5.71
+Massimo Dallamano,9,0.0,4.89
+Yuen Woo-ping,11,0.0,6.75
+David Greene,11,0.0,5.72
+Aleksandr Kott,6,0.0,5.92
+Nikhil Advani,5,0.0,5.96
+Barry Shear,5,0.0,6.08
+Maurice Elvey,5,0.0,5.3
+Al Adamson,10,0.0,2.74
+Stuart Heisler,17,0.0,5.39
+Phillip Borsos,5,0.0,6.16
+Gregg Champion,8,0.0,5.86
+Luis García Berlanga,6,0.0,6.88
+Shinji Aramaki,7,0.0,6.1
+Abdellatif Kechiche,5,0.0,7.12
+Craig Moss,8,0.0,4.21
+Harry Bromley Davenport,5,0.0,4.78
+Daniel Lee,9,0.0,5.74
+Wilson Yip,11,0.0,6.25
+Raman Hui,5,0.0,6.22
+Tommy O'Haver,5,0.0,6.02
+Andreas Dresen,5,0.0,6.54
+Felix Chong,5,0.0,6.18
+Daniel Alfredson,7,0.0,5.69
+Akan Satayev,5,0.0,5.26
+S.S. Rajamouli,7,0.0,6.4
+Joan Micklin Silver,10,0.0,4.65
+Terry George,6,0.0,6.72
+Olivier Baroux,5,0.0,5.36
+George Schaefer,6,0.0,2.48
+Buzz Kulik,10,0.0,6.05
+Sidney Franklin,11,0.0,5.77
+Norman Cohen,5,0.0,5.88
+Ernest B. Schoedsack,8,0.0,5.95
+Dominic Brigstocke,7,0.0,7.44
+Wladyslaw Starewicz,5,0.0,5.5
+Sergio Garrone,9,0.0,2.01
+Arnold Laven,7,0.0,5.4
+Harun Farocki,11,0.0,5.03
+Andrew L. Stone,13,0.0,5.25
+Gillian Armstrong,7,0.0,6.36
+Olivier Dahan,6,0.0,5.98
+William A. Levey,8,0.0,2.49
+Yoshiaki Kawajiri,9,0.0,6.8
+Masahiro Shinoda,9,0.0,5.9
+Leon Ichaso,6,0.0,6.15
+Robert Day,12,0.0,5.41
+Tad Stones,5,0.0,5.96
+Lew Landers,9,0.0,1.53
+Andy Sidaris,7,0.0,4.87
+Hannes Holm,6,0.0,5.42
+Laurent Cantet,7,0.0,5.83
+Nick Hamm,6,0.0,6.1
+Terry Hughes,5,0.0,4.98
+Todd Rohal,5,0.0,4.96
+Phillip J. Roth,6,0.0,3.83
+Baltasar Kormákur,10,0.0,6.25
+Aleksi Salmenperä,5,0.0,6.54
+Prabhu Deva,5,0.0,5.14
+Jon Jost,5,0.0,2.7
+Lenny Abrahamson,5,0.0,6.76
+William A. Graham,17,0.0,4.79
 Benoît Delépine,5,0.0,5.98
 Gustave de Kervern,5,0.0,5.98
-Jordan Brady,5,0.0,5.98
-Paul Bogart,6,0.0,4.87
-Morgan J. Freeman,5,0.0,5.1
-Shinsuke Sato,7,0.0,5.3
-Ira Sachs,5,0.0,6.12
-Maurice Elvey,5,0.0,5.3
-Mitchell Altieri,6,0.0,4.27
-Leonid Gayday,13,0.0,7.07
-Maya Deren,6,0.0,6.55
-Jeff Kanew,8,0.0,4.55
-Chris Eyre,5,0.0,4.12
-Blair Treu,5,0.0,5.92
-Arturo Ripstein,9,0.0,6.04
-Frank Perry,11,0.0,6.26
-Klaus Härö,5,0.0,5.38
-Carl Schenkel,5,0.0,5.46
-Joe May,5,0.0,5.06
-Paul Miller,6,0.0,5.17
-Wong Kar-wai,14,0.0,6.95
-Juzo Itami,7,0.0,6.33
-Graeme Campbell,5,0.0,4.4
-Jonathan Kaplan,14,0.0,5.52
-Fritz Kiersch,5,0.0,3.82
-Lambert Hillyer,5,0.0,3.9
-James Frawley,6,0.0,5.38
-Jean-Paul Rappeneau,6,0.0,6.18
-George Mendeluk,6,0.0,3.35
-Michael Damian,6,0.0,6.2
-Stephen Poliakoff,8,0.0,5.53
-Scott Smith,5,0.0,6.28
-Gil Junger,9,0.0,5.54
-David Jackson,7,0.0,3.84
-Michel Ocelot,5,0.0,7.22
-David Hugh Jones,5,0.0,6.32
-Edward Burns,11,0.0,5.66
-Benjamin Christensen,5,0.0,5.3
-Maurice Tourneur,5,0.0,5.98
-Lee Chang-dong,5,0.0,7.1
-Igor Maslennikov,6,0.0,6.87
-Walter Ruttmann,5,0.0,7.0
-Domenico Paolella,5,0.0,4.16
-Sheldon Larry,5,0.0,4.28
-Kōji Wakamatsu,6,0.0,5.8
-Andrzej Żuławski,9,0.0,7.12
-David Carson,6,0.0,5.5
-Sean S. Cunningham,6,0.0,5.22
-Kornél Mundruczó,5,0.0,5.02
-Jeremy Kagan,9,0.0,5.97
-Matthew Leutwyler,5,0.0,5.12
-Harvey Hart,5,0.0,3.92
-Damian Harris,5,0.0,5.5
-Curt Geda,6,0.0,6.52
-Olivier Baroux,5,0.0,5.36
-Nobuhiko Ôbayashi,7,0.0,5.14
-Vladimir Bortko,7,0.0,4.97
-Nick Zedd,8,0.0,6.25
-John Turturro,5,0.0,5.0
-Sandy Tung,5,0.0,6.06
-Neil Marshall,5,0.0,6.16
-Franco Prosperi,9,0.0,4.91
-Bradley Walsh,5,0.0,4.0
-Robert Clouse,8,0.0,6.13
-Laurence Olivier,5,0.0,5.84
-David Winning,8,0.0,4.8
-Dibakar Banerjee,6,0.0,6.68
-Brian Gilbert,5,0.0,5.88
-Christian Vincent,5,0.0,5.8
-Mario Siciliano,8,0.0,2.06
-Claude Berri,9,0.0,6.66
-Hideo Gosha,6,0.0,7.22
-Tony Randel,5,0.0,4.88
-Noboru Iguchi,7,0.0,5.21
+Alejandro Jodorowsky,9,0.0,6.81
+André Téchiné,19,0.0,6.14
 Ron Satlof,7,0.0,6.21
-Jon Jost,5,0.0,2.7
-Chen Kaige,13,0.0,6.7
-Arnold Laven,7,0.0,5.4
-Stephen Quay,7,0.0,6.19
-Timothy Quay,7,0.0,6.19
-Kabir Khan,5,0.0,6.34
-Gérard Blain,5,0.0,3.76
-Law Wing-cheong,5,0.0,5.54
-Peter Winther,5,0.0,5.48
-Georges Franju,6,0.0,7.18
-Wojciech Smarzowski,6,0.0,6.9
-Teuvo Tulio,5,0.0,4.9
-James Neilson,5,0.0,6.24
-Denys Arcand,6,0.0,6.1
-Martyn Burke,5,0.0,4.72
-Boris Khlebnikov,5,0.0,5.98
-Jeffery Scott Lando,5,0.0,4.84
-Víctor Erice,5,0.0,6.64
-Ramin Bahrani,6,0.0,6.73
-Stanislav Govorukhin,5,0.0,6.56
-George Stevens,21,0.0,6.13
-Mel Smith,5,0.0,5.96
-Daniel Haller,5,0.0,4.4
-Dmitriy Kiselev,7,0.0,5.73
-Ron Underwood,11,0.0,5.36
-Claudio Fäh,5,0.0,4.76
-Gillian Armstrong,7,0.0,6.36
+Herbert Ross,23,0.0,6.34
+Lowell Sherman,5,0.0,4.72
+Richard Schenkman,5,0.0,5.28
+Marc Evans,6,0.0,5.95
+Bob Balaban,5,0.0,5.28
+Tony Giglio,6,0.0,5.25
+Dan Curtis,11,0.0,5.64
+Peter Richardson,5,0.0,5.46
+Jules Dassin,16,0.0,6.07
+Stephen T. Kay,7,0.0,5.0
+Paul Lynch,5,0.0,4.34
+Shigeyasu Yamauchi,7,0.0,6.46
+Tim Hunter,5,0.0,5.54
+Marek Koterski,5,0.0,5.14
+Veit Harlan,6,0.0,5.88
+John Henderson,5,0.0,5.36
+Catherine Breillat,10,0.0,5.34
+Ole Christian Madsen,5,0.0,6.0
+P.J. Pesce,5,0.0,5.36
+B. S. Johnson,5,0.0,1.3
+Timothy Woodward Jr.,6,0.0,4.38
+Jacob Gentry,5,0.0,5.88
 Harry Winer,6,0.0,4.57
-Robert Hamer,5,0.0,7.16
+Nikos Nikolaidis,8,0.0,7.38
+Brillante Mendoza,6,0.0,6.15
+Gilles Grangier,5,0.0,5.04
+Charles Vidor,15,0.0,6.43
+Roy Andersson,9,0.0,6.54
+Kim Jee-woon,10,0.0,6.79
+Yves Boisset,6,0.0,5.38
+Jia Zhangke,9,0.0,7.21
+Bill Forsyth,8,0.0,6.06
+Ding Sheng,6,0.0,6.33
+Jean-Pierre Améris,5,0.0,5.98
+Jafar Panahi,8,0.0,6.94
+Peter Flinth,6,0.0,6.08
+Harley Cokeliss,6,0.0,5.63
+Risto Jarva,7,0.0,5.7
+Stephen Roberts,5,0.0,3.8
+Pere Portabella,5,0.0,5.76
+Alex Winter,5,0.0,6.04
+Albert Maysles,9,0.0,5.57
+David Maysles,6,0.0,5.93
+A. Edward Sutherland,7,0.0,5.24
+Gianfranco Parolini,8,0.0,4.62
+Michael Mayer,5,0.0,6.34
+Andrew Stevens,6,0.0,4.43
+Alvin Rakoff,6,0.0,5.8
+Philip Saville,5,0.0,4.12
+Christian I. Nyby II,17,0.0,4.44
+Kurt Neumann,10,0.0,4.88
+Alberto Rodríguez,6,0.0,6.28
+Leslie Norman,5,0.0,6.4
+John Asher,10,0.0,3.88
+Doug Campbell,9,0.0,5.02
+David Leland,5,0.0,6.66
+Jared Cohn,7,0.0,3.34
+Gianni Amelio,8,0.0,6.56
+André Hunebelle,7,0.0,6.8
+Douglas McGrath,7,0.0,6.13
+Scott Smith,5,0.0,6.28
+Jean-Pierre Gorin,5,0.0,6.06
+Allan Moyle,8,0.0,6.59
+Aleksey Balabanov,11,0.0,6.37
+Robert Downey Sr.,5,0.0,5.6
+Peter Winther,5,0.0,5.48
+Gordon Parks,6,0.0,5.47
+Lynne Stopkewich,5,0.0,6.22
+Peter Werner,7,0.0,5.53
+Fruit Chan,6,0.0,6.0
+László Benedek,6,0.0,5.82
+Robert Gardner,6,0.0,2.72
+Lucky McKee,6,0.0,5.87
+Bo Widerberg,5,0.0,5.86
+Edward D. Wood Jr.,6,0.0,3.98
+Lindsay Anderson,7,0.0,6.5
+Carlos Reygadas,5,0.0,6.72
+Herman Yau,9,0.0,5.34
+Robert J. Flaherty,6,0.0,5.88
+Jean-Marie Straub,8,0.0,6.5
+Sandy Tung,5,0.0,6.06
 Ricki Stern,5,0.0,6.92
 Anne Sundberg,5,0.0,6.92
-Prabhu Deva,5,0.0,5.14
-Paul Wheeler,6,0.0,7.22
-Clyde Bruckman,5,0.0,5.32
-Lisandro Alonso,5,0.0,6.76
-Scott Ziehl,6,0.0,5.1
-Colin Theys,5,0.0,4.4
-Melvin Frank,14,0.0,5.86
-Risto Jarva,7,0.0,5.7
-Don Coscarelli,8,0.0,6.01
-Gregory La Cava,6,0.0,4.38
-Carlos Reygadas,5,0.0,6.72
-Andrucha Waddington,5,0.0,5.56
-Marco Berger,5,0.0,7.82
-Arto Halonen,6,0.0,5.92
-Russell Rouse,7,0.0,5.53
-Anthony C. Ferrante,6,0.0,4.57
-Lowell Sherman,5,0.0,4.72
-Silvio Soldini,5,0.0,6.56
-Liz Garbus,10,0.0,5.58
-Nick Gomez,6,0.0,5.57
-Jack Haley Jr.,5,0.0,3.56
-Alastair Fothergill,8,0.0,7.15
-Charles Reisner,7,0.0,3.76
-Jeff Lieberman,5,0.0,6.06
-Paul Schneider,7,0.0,5.3
-Sergei Parajanov,5,0.0,6.58
-Lynne Stopkewich,5,0.0,6.22
-Sergei M. Eisenstein,8,0.0,6.76
-Carlos Sorin,5,0.0,6.02
-Marc Allégret,5,0.0,3.12
-Raman Hui,5,0.0,6.22
-Aleksandr Kott,6,0.0,5.92
-Robert Stone,5,0.0,5.7
-Noah Buschel,5,0.0,6.1
-Juan Piquer Simón,6,0.0,4.32
-Dick Richards,5,0.0,6.18
-Bruce LaBruce,5,0.0,6.12
-Min Kyu-dong,5,0.0,5.92
-André Hunebelle,7,0.0,6.8
-Jim Henson,7,0.0,5.64
-Alekos Sakellarios,6,0.0,7.38
-Thom Eberhardt,7,0.0,6.29
-Rod Hardy,7,0.0,4.3
-John Henderson,5,0.0,5.36
-Joe Camp,5,0.0,5.7
-Vikram Bhatt,8,0.0,5.09
-Stephen T. Kay,7,0.0,5.0
-Lindsay Anderson,7,0.0,6.5
-Jim O'Connolly,5,0.0,7.48
-Pang Ho-cheung,6,0.0,5.02
-Joachim Lafosse,5,0.0,6.1
-Samira Makhmalbaf,5,0.0,6.56
-Bernard McEveety,5,0.0,6.0
-Robert Downey Sr.,5,0.0,5.6
-Robert Markowitz,8,0.0,4.81
-Aleksi Salmenperä,5,0.0,6.54
-Prakash Jha,6,0.0,5.45
-Wolfgang Murnberger,5,0.0,7.02
-Elem Klimov,6,0.0,6.82
-Robert Enrico,7,0.0,6.17
-Per Fly,5,0.0,6.22
+Silvio Narizzano,5,0.0,5.26
+Adrian Shergold,5,0.0,6.54
+Pablo Trapero,8,0.0,6.4
+Jim McBride,11,0.0,5.17
+Fausto Brizzi,5,0.0,5.68
+Spencer Gordon Bennet,6,0.0,3.3
+Vic Sarin,8,0.0,4.74
+Maurice Pialat,9,0.0,5.74
+Rodrigo García,7,0.0,6.03
+Henry Jaglom,10,0.0,3.48
+Mike Mendez,7,0.0,5.47
+Hamilton MacFadden,5,0.0,4.4
+Katsuhiro Ōtomo,6,0.0,6.83
+Stephan Elliott,6,0.0,5.83
+Danièle Huillet,7,0.0,6.39
 Paul Cox,5,0.0,3.62
-Gregg Champion,8,0.0,5.86
-Konstantin Lopushanskiy,5,0.0,6.26
-Alain Robbe-Grillet,5,0.0,6.5
-Richard Boleslawski,9,0.0,5.4
-Nick Love,6,0.0,5.88
-Eric Lartigau,5,0.0,6.36
-Sergey Solovyov,5,0.0,5.8
-Hiroshi Inagaki,7,0.0,7.21
-José Luis Cuerda,5,0.0,6.54
-Michael Oblowitz,6,0.0,3.55
-Emilio Fernández,5,0.0,6.34
-Joe Menendez,5,0.0,5.44
-Gérard Pirès,5,0.0,5.86
-Nick Park,7,0.0,7.19
-Patrice Chéreau,5,0.0,5.94
-Michael Crichton,6,0.0,5.87
-Kurt Voss,5,0.0,3.88
-Victor Schertzinger,6,0.0,3.97
-John Boulting,6,0.0,6.8
-Giuseppe Vari,5,0.0,1.92
-B. S. Johnson,5,0.0,1.3
-Marcus H. Rosenmüller,7,0.0,6.39
-Andreas Dresen,5,0.0,6.54
-Gary Nelson,6,0.0,5.17
-Hiroshi Shimizu,6,0.0,5.73
-Albert Lewin,5,0.0,5.4
-Akihiko Shiota,5,0.0,5.72
+Curt Geda,6,0.0,6.52
+John Eyres,5,0.0,3.68
+Christian-Jaque,5,0.0,6.44
+Steve Boyum,8,0.0,4.83
+Gérard Blain,5,0.0,3.76
+Sergei Bodrov,6,0.0,5.1
+George Pollock,6,0.0,6.67
+Yôji Yamada,11,0.0,5.26
+Stuart Gordon,13,0.0,5.55
+Wang Xiaoshuai,5,0.0,6.54
 Peter Sullivan,5,0.0,4.22
-Étienne Chatiliez,6,0.0,6.07
-Paddy Breathnach,5,0.0,5.86
-Nelson Pereira dos Santos,6,0.0,3.87
-Bertrand Bonello,5,0.0,5.98
-Abel Gance,5,0.0,5.76
-Josef Rusnak,5,0.0,5.16
-Josh Stolberg,5,0.0,5.04
-Jack Clayton,8,0.0,6.31
-Nanette Burstein,6,0.0,6.52
-Leslie Norman,5,0.0,6.4
-Eric Schaeffer,6,0.0,5.8
-William Tannen,5,0.0,4.74
-Franck Khalfoun,5,0.0,5.72
-Hans-Christian Schmid,5,0.0,6.78
-Bruce Sinofsky,5,0.0,7.36
+Mary Lambert,10,0.0,3.86
+Morgan J. Freeman,5,0.0,5.1
+Mario Siciliano,8,0.0,2.06
+Daniel Haller,5,0.0,4.4
+Jean-François Richet,6,0.0,6.4
+Mario Bianchi,5,0.0,1.52
+Larry Elikann,5,0.0,4.5
+Michael Scott,8,0.0,4.89
+Ken Wiederhorn,5,0.0,5.42
+Kabir Khan,5,0.0,6.34
+Marco Berger,5,0.0,7.82
+Juan José Campanella,6,0.0,6.7
+Dominique Deruddere,5,0.0,6.14
+Mohit Suri,7,0.0,5.93
+Joe May,5,0.0,5.06
+Juan Antonio Bardem,5,0.0,6.42
+Rohit Shetty,9,0.0,5.67
+Michele Massimo Tarantini,6,0.0,4.45
+Mel Damski,8,0.0,6.16
+Burt Gillett,10,0.0,5.86
+Philippe de Chauveron,5,0.0,6.06
+Bill Bennett,5,0.0,4.72
+Mike Disa,5,0.0,5.52
+Georges Franju,6,0.0,7.18
+Matteo Garrone,5,0.0,6.64
+Zhang Yuan,5,0.0,7.16
+Pedro Costa,6,0.0,6.73
+Leonid Kvinikhidze,5,0.0,5.1
+Imtiaz Ali,5,0.0,6.74
+Bill Duke,8,0.0,5.09
+Paul Newman,5,0.0,6.24
+Paul Miller,6,0.0,5.17
+John Moffitt,9,0.0,6.82
+Jean-Paul Salomé,5,0.0,5.18
+Jacques Doillon,5,0.0,6.06
+Edward Ludwig,5,0.0,5.46
+Menahem Golan,7,0.0,5.54
+John Erman,5,0.0,5.56
+Santiago Segura,5,0.0,5.76
+Todd Solondz,7,0.0,6.34
+Nick Broomfield,15,0.0,5.11
+Marino Girolami,8,0.0,4.44
+Emilio Martínez Lázaro,5,0.0,5.98
+Luciano Ercoli,5,0.0,4.06
+Tom Hooper,9,0.0,6.87
+Harry L. Fraser,6,0.0,3.12
+Fritz Kiersch,5,0.0,3.82
+Jonathan Liebesman,7,0.0,5.5
+Wolfgang Murnberger,5,0.0,7.02
+Harvey Hart,5,0.0,3.92
+Rolfe Kanefsky,6,0.0,4.47
+Don Coscarelli,8,0.0,6.01
+Mark Cousins,8,0.0,5.38
+Jean-Marie Poiré,6,0.0,5.87
+Jon Gunn,5,0.0,6.28
+Sturla Gunnarsson,5,0.0,3.04
+Ted Tetzlaff,8,0.0,6.15
+Timo Koivusalo,5,0.0,5.04
+Rod Lurie,7,0.0,6.41
+Vlad Yudin,5,0.0,6.42
+Frank McDonald,5,0.0,2.56
+Luigi Magni,5,0.0,3.94
+Stefan Fjeldmark,5,0.0,5.94
+Jonas Mekas,5,0.0,8.68
+Nanni Loy,5,0.0,6.8
+Nils Malmros,5,0.0,6.96
+Dick Richards,5,0.0,6.18
+Chu Yen-ping,6,0.0,4.23
+Maxwell Shane,5,0.0,5.12
+Detlev Buck,5,0.0,6.42
 Hall Bartlett,6,0.0,4.15
-Rebecca Miller,5,0.0,5.76
-Owen Hurley,5,0.0,5.94
+Massimo Venier,5,0.0,6.5
+Sidney Salkow,9,0.0,5.02
+James Neilson,5,0.0,6.24
+Kim Longinotto,7,0.0,6.34
+Marco Tullio Giordana,5,0.0,7.5
+Wojciech Has,5,0.0,7.16
+Tom Laughlin,5,0.0,5.0
+Charles B. Griffith,5,0.0,3.72
+Garson Kanin,7,0.0,5.31
+Bruce Timm,5,0.0,7.3
+Klaus Härö,5,0.0,5.38
+Yukihiko Tsutsumi,6,0.0,5.62
+Adam Dubin,5,0.0,6.88
+Claudio Fragasso,6,0.0,4.32
+Paul Schneider,7,0.0,5.3
+Paolo Virzì,7,0.0,6.96
+Michel Poulette,5,0.0,5.3
+Per Fly,5,0.0,6.22
+Tomas Alfredson,6,0.0,5.33
+Gisaburō Sugii,5,0.0,6.36
+John Paddy Carstairs,5,0.0,6.04
+Carroll Ballard,6,0.0,6.6
+Claude Berri,9,0.0,6.66
+Emmanuelle Bercot,6,0.0,6.33
+Kimiyoshi Yasuda,6,0.0,6.33
+Mathieu Kassovitz,7,0.0,6.47
+Martin Donovan,6,0.0,3.65
+Étienne Chatiliez,6,0.0,6.07
+Paul Bartel,5,0.0,5.84
+James W. Horne,5,0.0,5.6
+Daniel Zirilli,5,0.0,4.5
+Preston Sturges,9,0.0,7.18
+Allan A. Goldstein,5,0.0,4.2
+James Merendino,5,0.0,5.26
+Richard Glatzer,5,0.0,5.72
+Cristi Puiu,5,0.0,6.36
+Leon Gast,5,0.0,7.56
+Nils Gaup,5,0.0,5.9
+Arthur Marks,6,0.0,6.1
+Stephen Quay,7,0.0,6.19
+Timothy Quay,7,0.0,6.19
+John Turturro,5,0.0,5.0
+Jack Cardiff,9,0.0,5.41
+Lauri Törhönen,5,0.0,5.62
+Yoo Ha,5,0.0,6.74
+Jack Perez,5,0.0,4.04
+Nanette Burstein,6,0.0,6.52
+Tony Randel,5,0.0,4.88

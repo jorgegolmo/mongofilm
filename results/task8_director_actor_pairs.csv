@@ -1,0 +1,21 @@
+rank,director,actor,films_count,mean_vote,mean_revenue,example_titles
+1,Francis Ford Coppola,Roman Coppola,3,8.366666666666667,113384031.0,The Godfather; The Godfather: Part II; The Godfather: Part II
+2,Charlie Chaplin,Hank Mann,3,8.133333333333333,6506393.666666667,The Great Dictator; Modern Times; City Lights
+3,Akira Kurosawa,Haruo Suzuki,3,8.133333333333333,90613.66666666667,High and Low; Seven Samurai; The Hidden Fortress
+4,Akira Kurosawa,Minoru Itô,3,8.133333333333333,90613.66666666667,High and Low; Seven Samurai; The Hidden Fortress
+5,Akira Kurosawa,Eijirô Tôno,3,8.133333333333333,90613.66666666667,High and Low; Seven Samurai; Yojimbo
+6,Francis Ford Coppola,John Cazale,3,8.1,99009750.66666667,The Godfather; The Godfather: Part II; The Conversation
+7,Akira Kurosawa,Toranosuke Ogawa,3,8.1,109027.0,Ikiru; Seven Samurai; The Hidden Fortress
+8,Akira Kurosawa,Atsushi Watanabe,3,8.1,109027.0,Ikiru; Seven Samurai; Yojimbo
+9,Quentin Tarantino,Harvey Keitel,3,8.1,182573606.33333334,Reservoir Dogs; Pulp Fiction; Inglourious Basterds
+10,Francis Ford Coppola,Robert Duvall,4,8.075,96622408.25,The Godfather; The Godfather: Part II; Apocalypse Now; The Conversation
+11,Akira Kurosawa,Noriko Honma,4,8.075,105912.25,Rashomon; Ikiru; Seven Samurai; Yojimbo
+12,Akira Kurosawa,Ichirô Chiba,4,8.075,81770.25,Ikiru; Seven Samurai; The Hidden Fortress; Yojimbo
+13,Akira Kurosawa,Daisuke Katô,4,8.075,105912.25,Rashomon; Ikiru; Seven Samurai; Yojimbo
+14,Akira Kurosawa,Haruya Sakamoto,3,8.066666666666666,90613.66666666667,Seven Samurai; The Hidden Fortress; Yojimbo
+15,Akira Kurosawa,Shôichi Hirose,3,8.066666666666666,90613.66666666667,Seven Samurai; The Hidden Fortress; Yojimbo
+16,Akira Kurosawa,Susumu Fujita,3,8.066666666666666,0.0,High and Low; The Hidden Fortress; Yojimbo
+17,Akira Kurosawa,Isao Kimura,4,8.049999999999999,81770.25,Ikiru; High and Low; Throne of Blood; Seven Samurai
+18,Akira Kurosawa,Minoru Chiaki,6,8.033333333333333,70608.16666666667,Rashomon; Ikiru; High and Low; Throne of Blood; Seven Samurai
+19,Hayao Miyazaki,Tsunehiko Kamijô,3,8.033333333333333,144766801.0,Porco Rosso; Spirited Away; Princess Mononoke
+20,Akira Kurosawa,Yûnosuke Itô,3,8.033333333333333,18413.333333333332,Ikiru; High and Low; Sanjuro

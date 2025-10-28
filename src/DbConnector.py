@@ -1,41 +1,53 @@
-from pymongo import MongoClient, version
+# DbConnector.py
+from pymongo import MongoClient
 from pathlib import Path
 from dotenv import load_dotenv
 from os import getenv
 
+# load .env from project root (parent of this file)
 load_dotenv(dotenv_path=Path(__file__).resolve().parent.parent / ".env")
 
 class DbConnector:
-    """
-    Connects to the MongoDB server on the Ubuntu virtual machine.
-    Connector needs HOST, USER and PASSWORD to connect.
-
-    Example:
-    HOST = "tdt4225-00.idi.ntnu.no" // Your server IP address/domain name
-    USER = "testuser" // This is the user you created and added privileges for
-    PASSWORD = "test123" // The password you set for said user
-    """
-
     def __init__(self,
-                 HOST=getenv("HOSTNAME"),
-                 DATABASE=getenv("DATABASE"),
-                 USER=getenv("USERNAME"),
-                 PASSWORD=getenv("PASSWORD")):
-        uri = "mongodb://%s:%s@%s/%s" % (USER, PASSWORD, HOST, DATABASE)
-        # Connect to the databases
+                 HOST=getenv("HOSTNAME") or "127.0.0.1",
+                 DATABASE=getenv("DATABASE") or "mongofilm",
+                 USER=getenv("USERNAME") or None,
+                 PASSWORD=getenv("PASSWORD") or None,
+                 PORT=getenv("PORT") or "27017"):
+        # sanitize empty strings to None
+        if USER == "":
+            USER = None
+        if PASSWORD == "":
+            PASSWORD = None
+
+        # Ensure database name is a string
+        if not isinstance(DATABASE, str) or DATABASE.strip() == "":
+            raise RuntimeError("DATABASE environment variable is missing or empty. Set DATABASE in .env to the name of your database (e.g. mongofilm).")
+
+        self.host = HOST
+        self.database_name = DATABASE
+        self.port = PORT
+
+        if USER and PASSWORD:
+            uri = f"mongodb://{USER}:{PASSWORD}@{self.host}:{self.port}/{self.database_name}"
+        else:
+            uri = f"mongodb://{self.host}:{self.port}/"
+
         try:
             self.client = MongoClient(uri)
-            self.db = self.client[DATABASE]
+            # access database object
+            self.db = self.client[self.database_name]
         except Exception as e:
-            print("ERROR: Failed to connect to db:", e)
+            print("❌ ERROR: Failed to connect to db:", e)
+            self.client = None
+            self.db = None
+            raise RuntimeError("Could not connect to MongoDB: " + str(e))
 
-        # get database information
-        print("You are connected to the database:", self.db.name)
+        print("✅ Connected to database:", self.db.name)
         print("-----------------------------------------------\n")
 
     def close_connection(self):
-        # close the cursor
-        # close the DB connection
-        self.client.close()
-        print("\n-----------------------------------------------")
-        print("Connection to %s-db is closed" % self.db.name)
+        if self.client:
+            self.client.close()
+            print("\n-----------------------------------------------")
+            print("Connection to %s-db is closed" % self.db.name)
