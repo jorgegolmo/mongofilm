@@ -5,7 +5,6 @@ import csv
 
 class CollectionRevenueQuery:
     def __init__(self):
-        print("🔌 Conectando a MongoDB...")
         self.connection = DbConnector()
         self.db = self.connection.db
 
@@ -16,7 +15,7 @@ class CollectionRevenueQuery:
         find the top `top_n` collections by total revenue.
         Report: movie count, total revenue, median vote_average, earliest -> latest release date.
         """
-        print("\n🎬 Task 4: Top {} collections by total revenue".format(top_n))
+        print("\nTask 4: Top {} collections by total revenue".format(top_n))
         print("-" * 80)
 
         start = time.time()
@@ -174,15 +173,11 @@ class CollectionRevenueQuery:
         try:
             results = list(self.db.movies.aggregate(pipeline))
         except Exception as e:
-            print("\n❌ ERROR running aggregation:", e)
+            print("\nERROR running aggregation:", e)
             raise
 
         elapsed = time.time() - start
 
-        # Print results nicely
-        print(f"\n✅ Query executed in {elapsed:.2f}s")
-        print(f"📋 Top {len(results)} collections by total revenue\n")
-        print("=" * 80)
         for i, r in enumerate(results, start=1):
             total_rev = r.get("total_revenue") or 0
             median_vote = r.get("median_vote_average")
@@ -214,7 +209,7 @@ class CollectionRevenueQuery:
                     r.get("earliest_release") or "",
                     r.get("latest_release") or ""
                 ])
-        print(f"\n💾 Results exported to: {out_path}")
+        print(f"\nResults exported to: {out_path}")
 
         return results
 
