@@ -6,7 +6,6 @@ import csv
 
 class DecadeGenreRuntimeQuery:
     def __init__(self):
-        print("🔌 Conectando a MongoDB...")
         self.connection = DbConnector()
         self.db = self.connection.db
 
@@ -16,7 +15,7 @@ class DecadeGenreRuntimeQuery:
         compute median runtime and movie count.
         Sort by decade ascending then median runtime descending.
         """
-        print("\n🎬 Task 5: Median runtime and movie count by decade & primary genre")
+        print("\nTask 5: Median runtime and movie count by decade & primary genre")
         print("-" * 80)
         start = time.time()
 
@@ -141,8 +140,8 @@ class DecadeGenreRuntimeQuery:
         elapsed = time.time() - start
 
         # Print results
-        print(f"\n✅ Query executed in {elapsed:.2f}s")
-        print(f"📊 Rows: {len(results)}\n")
+        print(f"\nQuery executed in {elapsed:.2f}s")
+        print(f"Rows: {len(results)}\n")
         print("=" * 80)
         header = f"{'Decade':8} | {'Genre':30} | {'Movies':6} | {'Median runtime':13}"
         print(header)
@@ -160,7 +159,7 @@ class DecadeGenreRuntimeQuery:
             w.writerow(["decade_num", "decade_label", "primary_genre", "movie_count", "median_runtime"])
             for r in results:
                 w.writerow([r.get("decade_num"), r.get("decade_label"), r.get("primary_genre"), r.get("movie_count"), r.get("median_runtime")])
-        print(f"\n💾 Results exported to: {out}")
+        print(f"\nResults exported to: {out}")
 
         return results
 
