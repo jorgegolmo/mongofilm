@@ -52,3 +52,12 @@ To obtain the clean CSVs, run the EDA notebook or its synced Python file:
 ```sh
 python src/eda.py
 ```
+
+Then, as in the previous, exercise, you need to place the following `.envp in the repository directory:
+
+```sh
+HOSTNAME=$(your computer/container's hostname)
+DATABASE=$(the name of the database you created)
+USERNAME=$(your MySQL username)
+PASSWORD=$(your MySQL password)
+```
