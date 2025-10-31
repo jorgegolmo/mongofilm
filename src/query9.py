@@ -6,7 +6,6 @@ import csv
 
 class NonEnglishUSProductionQuery:
     def __init__(self):
-        print("🔌 Conectando a MongoDB...")
         self.connection = DbConnector()
         self.db = self.connection.db
 
@@ -16,7 +15,7 @@ class NonEnglishUSProductionQuery:
         or production country is United States, find top original languages by count.
         For each language, return count and one example title.
         """
-        print("\n🎬 Task 9: Top original languages (non-en) with US involvement")
+        print("\nTask 9: Top original languages (non-en) with US involvement")
         print("-" * 80)
         start = time.time()
 
@@ -57,8 +56,8 @@ class NonEnglishUSProductionQuery:
         results = list(self.db.movies.aggregate(pipeline))
         elapsed = time.time() - start
 
-        print(f"\n✅ Query executed in {elapsed:.2f}s")
-        print(f"📋 Top {len(results)} original languages:\n")
+        print(f"\nQuery executed in {elapsed:.2f}s")
+        print(f"Top {len(results)} original languages:\n")
         print("=" * 80)
         print(f"{'Lang':6} | {'Count':6} | {'Example title'}")
         print("-" * 80)
@@ -74,7 +73,7 @@ class NonEnglishUSProductionQuery:
             w.writerow(["original_language", "count", "example_title"])
             for r in results:
                 w.writerow([r.get("original_language"), r.get("count"), r.get("example_title")])
-        print(f"\n💾 Results exported to: {out}")
+        print(f"\nResults exported to: {out}")
 
         return results
 
