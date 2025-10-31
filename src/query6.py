@@ -6,7 +6,6 @@ import csv
 
 class FemaleProportionByDecadeQuery:
     def __init__(self):
-        print("🔌 Conectando a MongoDB...")
         self.connection = DbConnector()
         self.db = self.connection.db
 
@@ -17,7 +16,7 @@ class FemaleProportionByDecadeQuery:
         Aggregate by decade and list decades sorted by average female proportion (desc),
         including movie counts used. Unknown gender ignored.
         """
-        print("\n🎬 Task 6: Female proportion in top-5 cast, aggregated by decade")
+        print("\nTask 6: Female proportion in top-5 cast, aggregated by decade")
         print("-" * 80)
         start = time.time()
 
@@ -132,8 +131,8 @@ class FemaleProportionByDecadeQuery:
         results = list(self.db.movies.aggregate(pipeline))
         elapsed = time.time() - start
 
-        print(f"\n✅ Query executed in {elapsed:.2f}s")
-        print(f"📊 Rows: {len(results)}\n")
+        print(f"\nQuery executed in {elapsed:.2f}s")
+        print(f"Rows: {len(results)}\n")
         print("=" * 80)
         print(f"{'Decade':8} | {'AvgFemale%':9} | {'Movies(with gender)':18} | {'Movies(total)':12}")
         print("-" * 80)
@@ -151,7 +150,7 @@ class FemaleProportionByDecadeQuery:
             w.writerow(["decade_num", "decade_label", "avg_female_prop", "movie_count_with_gender", "movie_count_all"])
             for r in results:
                 w.writerow([r.get("decade_num"), r.get("decade_label"), r.get("avg_female_prop"), r.get("movie_count_with_gender"), r.get("movie_count_all")])
-        print(f"\n💾 Results exported to: {out}")
+        print(f"\nResults exported to: {out}")
 
         return results
 
