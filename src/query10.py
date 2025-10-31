@@ -1,4 +1,4 @@
-# query10_optimized.py
+# query10.py
 from pathlib import Path
 from DbConnector import DbConnector
 import time
@@ -6,7 +6,6 @@ import pandas as pd
 
 class UserRatingsStatsExecutor:
     def __init__(self):
-        print("🔌 Conectando a MongoDB...")
         self.connection = DbConnector()
         self.db = self.connection.db
 
@@ -14,14 +13,14 @@ class UserRatingsStatsExecutor:
         """
         Create helpful indexes (run once).
         """
-        print("\n⚙️  Ensuring indexes (movies.tmdbId, ratings.tmdbId, ratings.userId)...")
+        print("\nEnsuring indexes (movies.tmdbId, ratings.tmdbId, ratings.userId)...")
         try:
             self.db.movies.create_index("tmdbId", name="idx_movies_tmdbId")
             self.db.ratings.create_index("tmdbId", name="idx_ratings_tmdbId")
             self.db.ratings.create_index("userId", name="idx_ratings_userId")
             print("   ✓ Indexes created/ensured.")
         except Exception as e:
-            print("   ⚠️  Error creating indexes:", e)
+            print("Error creating indexes:", e)
 
     def task_10_user_stats_optimized(self, top_n=10, min_ratings_for_variance=20, example_genres=5):
         """
@@ -33,7 +32,7 @@ class UserRatingsStatsExecutor:
              * top_genre_diverse (by distinct genre count)
              * top_variance (by population variance, with min ratings threshold)
         """
-        print("\n🎬 Task 10 (optimized): User rating stats (count, population variance, distinct genres)")
+        print("\nTask 10 (optimized): User rating stats (count, population variance, distinct genres)")
         print("-" * 90)
 
         start_time = time.time()
@@ -142,15 +141,15 @@ class UserRatingsStatsExecutor:
             cursor = self.db.ratings.aggregate(pipeline, allowDiskUse=True)
             docs = list(cursor)
             if not docs:
-                print("⚠️  Aggregation returned no documents.")
+                print("Aggregation returned no documents.")
                 return {"top_genre_diverse": [], "top_variance": []}
             agg_result = docs[0]
         except Exception as e:
-            print("\n❌ ERROR running aggregation:", e)
+            print("\nERROR running aggregation:", e)
             raise
 
         elapsed = time.time() - start_time
-        print(f"\n✅ Aggregation completed in {elapsed:.2f}s (server-side).")
+        print(f"\nAggregation completed in {elapsed:.2f}s (server-side).")
         print(f"   • Retrieved {len(agg_result.get('top_genre_diverse', []))} genre-diverse rows and {len(agg_result.get('top_variance', []))} variance rows.")
 
         # pretty print
@@ -187,10 +186,10 @@ class UserRatingsStatsExecutor:
 
         if not df_genre.empty:
             df_genre.to_csv(out_dir / "task10_top_genre_diverse_users_optimized.csv", index=False)
-            print(f"\n💾 Exported genre-diverse leaderboard to: {out_dir / 'task10_top_genre_diverse_users_optimized.csv'}")
+            print(f"\nExported genre-diverse leaderboard to: {out_dir / 'task10_top_genre_diverse_users_optimized.csv'}")
         if not df_var.empty:
             df_var.to_csv(out_dir / "task10_top_variance_users_optimized.csv", index=False)
-            print(f"💾 Exported variance leaderboard to: {out_dir / 'task10_top_variance_users_optimized.csv'}")
+            print(f"Exported variance leaderboard to: {out_dir / 'task10_top_variance_users_optimized.csv'}")
 
         return agg_result
 
