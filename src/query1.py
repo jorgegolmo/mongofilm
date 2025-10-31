@@ -5,22 +5,13 @@ import statistics
 
 class DirectorQueryExecutor:
     def __init__(self):
-        print("🔌 Conectando a MongoDB...")
         self.connection = DbConnector()
         self.db = self.connection.db
         
     def query_top_directors(self, min_movies=5, top_n=10):
-        """
-        Obtiene los 10 directores con más mediana de revenue y al menos min_movies películas.
-        Reporta también cantidad de películas y promedio de vote_average.
-        """
-        print(f"\n🎬 Buscando directores con ≥ {min_movies} películas")
-        print("-" * 80)
-        
+      
         start_time = time.time()
         
-        # Cargar todas las películas con crew
-        print("   ⏳ Cargando películas desde MongoDB...")
         movies = list(self.db.movies.aggregate([
             {
                 "$match": {
@@ -39,10 +30,7 @@ class DirectorQueryExecutor:
             }
         ]))
         
-        print(f"   ✓ {len(movies):,} películas cargadas")
-        
-        # Filtrar directores y agrupar por nombre
-        print("   ⏳ Agrupando películas por director...")
+
         director_dict = {}
         for movie in movies:
             for member in movie['crew']:
@@ -58,7 +46,6 @@ class DirectorQueryExecutor:
                     director_dict[director_name]["revenues"].append(movie["revenue"])
                     director_dict[director_name]["vote_averages"].append(movie["vote_average"])
         
-        # Filtrar directores con ≥ min_movies
         print(f"   ⏳ Filtrando directores con ≥ {min_movies} películas...")
         results = []
         for director, data in director_dict.items():
@@ -72,32 +59,24 @@ class DirectorQueryExecutor:
                     "mean_vote": round(avg_vote, 2)
                 })
         
-        # Ordenar por mediana de revenue descendente
         results.sort(key=lambda x: x["median_revenue"], reverse=True)
         
         elapsed = time.time() - start_time
         
-        # Mostrar resultados
-        print(f"\n✅ Query ejecutada en {elapsed:.2f}s")
-        print(f"📋 Mostrando top {top_n} directores por mediana de revenue\n")
-        print("="*80)
         for i, director in enumerate(results[:top_n], 1):
             print(f"{i}. {director['director']}")
             print(f"   • Películas: {director['movie_count']}")
             print(f"   • Mediana revenue: {director['median_revenue']}")
             print(f"   • Promedio vote_average: {director['mean_vote']:.2f}")
         
-        print("="*80)
         return results
     
     def export_results_to_csv(self, results, output_path):
         import pandas as pd
         df = pd.DataFrame(results)
         df.to_csv(output_path, index=False)
-        print(f"\n💾 Resultados exportados a: {output_path}")
     
     def close(self):
-        """Cierra la conexión"""
         self.connection.close_connection()
 
 def main():
