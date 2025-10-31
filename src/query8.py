@@ -6,7 +6,6 @@ import csv
 
 class DirectorActorPairsQuery:
     def __init__(self):
-        print("🔌 Conectando a MongoDB...")
         self.connection = DbConnector()
         self.db = self.connection.db
 
@@ -15,7 +14,7 @@ class DirectorActorPairsQuery:
         Among movies with vote_count >= 100, find director-actor pairs that collaborated >= min_collabs times.
         Return top_n pairs by mean vote_average. Also include films_count and mean_revenue.
         """
-        print(f"\n🎬 Task 8: Director–actor pairs with ≥ {min_collabs} collaborations (vote_count ≥ 100)")
+        print(f"\nTask 8: Director–actor pairs with ≥ {min_collabs} collaborations (vote_count ≥ 100)")
         print("-" * 80)
         start = time.time()
 
@@ -62,8 +61,8 @@ class DirectorActorPairsQuery:
         results = list(self.db.movies.aggregate(pipeline))
         elapsed = time.time() - start
 
-        print(f"\n✅ Query executed in {elapsed:.2f}s")
-        print(f"📋 Top {len(results)} director–actor pairs:\n")
+        print(f"\nQuery executed in {elapsed:.2f}s")
+        print(f"Top {len(results)} director–actor pairs:\n")
         print("=" * 80)
         for i, r in enumerate(results, start=1):
             print(f"{i}. {r['director']} — {r['actor']}")
@@ -81,7 +80,7 @@ class DirectorActorPairsQuery:
             w.writerow(["rank", "director", "actor", "films_count", "mean_vote", "mean_revenue", "example_titles"])
             for i, r in enumerate(results, start=1):
                 w.writerow([i, r.get("director"), r.get("actor"), r.get("films_count"), r.get("mean_vote"), r.get("mean_revenue"), "; ".join((r.get("titles") or [])[:5])])
-        print(f"\n💾 Results exported to: {out}")
+        print(f"\nResults exported to: {out}")
 
         return results
 
