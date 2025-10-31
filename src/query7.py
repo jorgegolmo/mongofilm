@@ -7,7 +7,6 @@ import re
 
 class NoirSearchQuery:
     def __init__(self):
-        print("🔌 Conectando a MongoDB...")
         self.connection = DbConnector()
         self.db = self.connection.db
 
@@ -16,7 +15,7 @@ class NoirSearchQuery:
         Text (or regex) search over overview and tagline for 'noir' or 'neo-noir'
         (case-insensitive). Filter vote_count >= 50. Return top `top_n` by vote_average.
         """
-        print("\n🎬 Task 7: Top movies matching 'noir' / 'neo-noir' (vote_count >= 50)")
+        print("\nTask 7: Top movies matching 'noir' / 'neo-noir' (vote_count >= 50)")
         print("-" * 80)
         start = time.time()
 
@@ -57,8 +56,8 @@ class NoirSearchQuery:
         results = list(self.db.movies.aggregate(pipeline))
         elapsed = time.time() - start
 
-        print(f"\n✅ Query executed in {elapsed:.2f}s")
-        print(f"📋 Top {len(results)} matching movies:\n")
+        print(f"\nQuery executed in {elapsed:.2f}s")
+        print(f"Top {len(results)} matching movies:\n")
         print("=" * 80)
         print(f"{'Title':50} | {'Year':4} | {'vote_avg':8} | {'vote_count':10}")
         print("-" * 80)
@@ -82,7 +81,7 @@ class NoirSearchQuery:
                     "vote_average": r.get("vote_average"),
                     "vote_count": r.get("vote_count")
                 })
-        print(f"\n💾 Results exported to: {out}")
+        print(f"\nResults exported to: {out}")
 
         return results
 
